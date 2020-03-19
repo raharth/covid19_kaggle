@@ -1,0 +1,28 @@
+    Average monthly precipitation
+    8.84 mm (2014)
+    CO2 emissions per capita
+    0 t (2017)
+    Consumption of Ozone-Depleting Substances
+    0 tonnes (2014)
+    Forest area as share of land area
+    0% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    HadCRUT Surface Temperature Anomaly
+    1.68 ℃ (2017)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    1,825 persons (2015)
+    Life expectancy
+    75.1 years (2019)
+    Population (Gapminder & UN (1800 to 2019))
+    1,000 (2019)
+    Population
+    1,000 (2019)
+    Population density
+    1,784.09 (2015)
+    Red List Index
+    0.99 (2019)
+    Share of the population living in urban areas
+    100% (2019)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    100% (2016)

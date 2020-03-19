@@ -1,0 +1,202 @@
+    Aid received per capita
+    $7,438.57 (2019)
+    Annual CO2 emissions
+    12,955 t (2017)
+    Annual share of global CO2 emissions
+    0% (2017)
+    Arable land needed to produce a fixed quantity of crops (1961 = 1)
+    0.45 (2014)
+    Banana production
+    81 t (2018)
+    Banana yields
+    19,919 t (2018)
+    Beef production
+    3 t (2018)
+    Beer consumption per person
+    3.13 litres (2011)
+    Cassava production
+    44 t (2018)
+    Cassava yields
+    62,828 t (2018)
+    Cattle meat per animal
+    198.6 kg (2018)
+    Chicken meat production
+    25 t (2018)
+    Chicken meat yield per animal
+    10,096 kg (2018)
+    Child mortality (Long-run data; Gapminder & UN IGME)
+    22.2% (2016)
+    Consumption of Ozone-Depleting Substances
+    0 tonnes (2013)
+    Country Programmable Aid (CPA) received
+    $12.11 million (2019)
+    Cumulative CO2 emissions
+    271,579 t (2017)
+    Death rate due to road traffic injuries
+    0 (2013)
+    Death rate due to tuberculosis
+    3.5 (2015)
+    Egg production
+    16 t (2018)
+    Eggs per bird
+    51,950 kg (2018)
+    Estimated TB-related deaths among people living with HIV
+    0 (2016)
+    Forest area as share of land area
+    69.62% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area net change rate
+    -0.54% (2015)
+    Gross official development assistance (ODA) for medical research and basic heath sectors
+    $30 million (2015)
+    Gross overseas development assistance (ODA) from all donors for scholarships
+    $140 million (2015)
+    Humanitarian aid received
+    $9,759 (2016)
+    Humanitarian and food aid received
+    $9,759 (2016)
+    International finance received for clean energy
+    $0.24 (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    6.27 persons (2015)
+    Life expectancy
+    73.7 years (2019)
+    Mean body mass index (BMI) in men
+    31.59 (2016)
+    Mean body mass index (BMI) in women
+    33.51 (2016)
+    Meat production
+    90 t (2018)
+    Milk per animal
+    7,808 kg (2018)
+    Milk production
+    56 t (2018)
+    Milk production
+    56 t (2018)
+    Number of cattle
+    113 (2018)
+    Number of confirmed tetanus cases (WHO 2017)
+    0 cases (2013)
+    Number of new neonatal tetanus cases per million
+    0 (2013)
+    Number of people requiring interventions against neglected tropical diseases (NTDs)
+    0 (2015)
+    Number of people requiring interventions for neglected tropical diseases
+    0 (2015)
+    Number of people using at least basic sanitation facilities
+    1,558.02 (2015)
+    Number of people using safely managed drinking water
+    1,565 (2015)
+    Number of people with access to at least basic drinking water
+    1,581 (2015)
+    Number of pigs
+    2,250 (2018)
+    Number of poultry birds
+    18,000 (2018)
+    Out-of-pocket expenditure per capita on healthcare
+    $14.95 (2015)
+    Percentage of individuals using the internet by country
+    91.55% (2014)
+    Pig meat per animal
+    634 kg (2018)
+    Pigmeat production
+    63 t (2018)
+    Population (Gapminder & UN (1800 to 2019))
+    2,000 (2019)
+    Population
+    2,000 (2019)
+    Population density
+    5.88 (2015)
+    Poultry meat per animal
+    1.01 kg (2018)
+    Poultry production
+    25 t (2018)
+    Prevalence of obesity in adult females
+    56.3% (2014)
+    Prevalence of obesity in adult males
+    46.6% (2014)
+    Prevalence of tobacco use among adults
+    14.9% (2016)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    34.52% (2017)
+    Public health expenditure (% GDP)
+    7.32% (2014)
+    Red List Index
+    0.76 (2019)
+    Reported cases of measles
+    0 (2019)
+    Sex ratio at birth (Chao et al. (2019))
+    106.82 (2017)
+    Share of adult men overweight or obese
+    78.6% (2014)
+    Share of adult women overweight or obese
+    83.4% (2014)
+    Share of adults that are obese
+    50% (2016)
+    Share of adults that are overweight or obese
+    79.1% (2016)
+    Share of global cumulative CO2 emissions
+    0% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    95.28% (2018)
+    Share of land used for permanent meadows and pastures
+    3.85% (2017)
+    Share of men that are obese
+    44.8% (2016)
+    Share of men that are overweight or obese
+    77.6% (2016)
+    Share of men with raised blood pressure
+    26.12% (2015)
+    Share of one-year-olds vaccinated against Haemophilus influenzae type B (Hib3)
+    99% (2018)
+    Share of one-year-olds vaccinated against polio (Pol3)
+    99% (2015)
+    Share of one-year-olds vaccinated against rotavirus
+    99% (2018)
+    Share of one-year-olds vaccinated against tuberculosis (BCG)
+    99% (2015)
+    Share of population using at least basic drinking water source
+    98.2% (2015)
+    Share of population using at least basic sanitation facilities
+    96.77% (2015)
+    Share of the population living in urban areas
+    45.5% (2019)
+    Share of the population using safely managed drinking water
+    97.22% (2015)
+    Share of women that are obese
+    55.1% (2016)
+    Share of women that are overweight or obese
+    82.5% (2016)
+    Share of women with raised blood pressure
+    22.08% (2015)
+    Spirits consumption per person
+    2.12 litres (2011)
+    Sweet potato production
+    251 t (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    0 (2015)
+    TB patients tested positive for HIV
+    0 (2015)
+    Total assistance for development received
+    $14.8 (2017)
+    Total financial assistance and flows for agriculture, by recipient
+    $0.13 (2017)
+    Total official development assistance for biodiversity, by recipient
+    $0.13 (2017)
+    Total official financial flows for water supply and sanitation, by recipient
+    $0.03 (2017)
+    Total official flows commitments for Aid for Trade, by recipient
+    $15.54 (2017)
+    Total official flows for infrastructure, by recipient
+    $2.27 (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    43.32% (2016)
+    Wine consumption per person
+    0.74 litres (2011)
+    Yams production
+    156 t (2018)
+    Yaws status of endemicity and number of cases
+    No previous history of yaws (2016)
+    Youth mortality rate
+    2.56% (2017)

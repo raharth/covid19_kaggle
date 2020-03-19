@@ -1,0 +1,484 @@
+    Adolescent birth rate per 1,000 women aged 15-19
+    2.63 births (2016)
+    Adult literacy rate, population 15+ years, female (%)
+    94.6% (2015)
+    Adult literacy rate, population 15+ years, female (%)
+    94.6% (2015)
+    Adult literacy rate, population 15+ years, male (%)
+    98.02% (2015)
+    Age dependency ratio
+    29.97% (2017)
+    Agricultural area per capita
+    0 hectares (2013)
+    Air transport, freight (ton-km)
+    33.43 (2017)
+    Annual CO2 emissions
+    1.51 million t (2017)
+    Annual growth of GDP per capita
+    7.27% (2017)
+    Annual share of global CO2 emissions
+    <0.01% (2017)
+    Automated teller machines (ATMs)
+    282.32 ATMs (2016)
+    Beef production
+    809 t (2018)
+    Broadband subscriptions per 100 people
+    29.07 (2016)
+    Carbon emission intensity of economies
+    0.02 kg (2014)
+    Cattle meat per animal
+    405.7 kg (2018)
+    Central government expenditure as share of GDP
+    16.22% (2016)
+    Chicken meat production
+    3,837 t (2018)
+    Chicken meat yield per animal
+    9,000 kg (2018)
+    Child dependency ratio – the ratio between under-19-year-olds and 20-to-69-year-olds
+    22.8 (2015)
+    Child mortality (UN (from 1950))
+    0.38% (2015)
+    Child mortality (Long-run data; Gapminder & UN IGME)
+    3.7% (2016)
+    Children born per woman
+    1.39 (2019)
+    Children per woman (UN; 1950 to 2015)
+    1.28 (2015)
+    Commercial bank branches
+    37.47 (2016)
+    Completion rate of lower secondary education
+    96.27% (2014)
+    Crude birth rate
+    11.99 (2015)
+    Crude death rate: the share of the population that dies per year
+    0.38% (2015)
+    Cumulative CO2 emissions
+    51.95 million t (2017)
+    Cumulative drop-out rate to the last grade of lower secondary general education
+    1.63% (2013)
+    Daily per capita fat supply
+    131.93 g (2017)
+    Daily per capita protein supply
+    100.46 g (2017)
+    Daily supply of calories
+    3,002 kcal (2017)
+    Differences in life expectancy are more regional than national
+    83.85 years (2016)
+    Duration of compulsory education
+    10 years (2014)
+    Duration of pre-primary education
+    3 years (2016)
+    Egg production
+    425 t (2018)
+    Eggs per bird
+    24,566 kg (2018)
+    Employment in agriculture (% of total employment)
+    0.53% (2017)
+    Energy intensity of economies
+    0.66 kWh/$ (2015)
+    Estimated TB-related deaths among people living with HIV
+    <1 (2016)
+    Exports of goods and services by income group
+    $30.75 billion (2017)
+    Exports within Western Europe (%GDP)
+    0.15% (2014)
+    Female employment-to-population ratio
+    66.33 (2016)
+    Female employment-to-population ratio
+    65.11% (2017)
+    Female labor force participation rates
+    66.08% (2017)
+    Female share of employment in senior and middle management (%)
+    32.8% (2015)
+    Fertility rate over the long-term
+    1.39 (2019)
+    Fish and seafood consumption per capita
+    56.33 kg (2017)
+    Fixed broadband subscriptions (per 100 people)
+    29.07 (2016)
+    Fixed telephone subscriptions
+    23.2 (2016)
+    Foreign direct investment, net inflows (% of GDP)
+    4.59% (2014)
+    Foreign direct investment, net inflows as share of GDP
+    -3.26% (2017)
+    Foreign direct investment, net outflows as share of GDP
+    1.36% (2017)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Fruit consumption per capita
+    42.83 kg (2017)
+    Fuel exports (% of merchandise exports)
+    0% (2015)
+    Future life expectancy projections
+    84.27 (2019)
+    Future population projections by country (IIASA (1970 to 2100))
+    598,520 (2015)
+    GDP in British pounds
+    £33.74 billion (2014)
+    GDP per capita (Penn World Tables (1950 to 2014))
+    82,995.45 (2017)
+    GDP per capita (World Bank (1990 to 2017))
+    $104,862 (2017)
+    GDP per capita in US$ (World Bank (1960 to 2017))
+    $55,936.8 (2017)
+    GDP per person employed (constant 2011 PPP $)
+    $172,031.05 (2017)
+    GDP price levels relative to the US
+    0.7 GDP (2017)
+    Gender gap in pre-primary education: Share of students in pre-primary education who are female
+    47.84% (2014)
+    Gender gap in primary education: Share of enrolled female primary education students
+    47.91% (2016)
+    Gender parity index (GPI): Literacy rate of young people (ages 15-24)
+    1 GPI (2016)
+    Global capture fishery production
+    1,500 (2016)
+    Government expenditure on education (% of GDP)
+    2.98% (2015)
+    Government expenditure on primary education by country
+    0% (2012)
+    Government expenditure on secondary education as share of GDP
+    1.13% (2013)
+    Government expenditure on tertiary education as share of GDP
+    0.93% (2013)
+    Government expenditure on tertiary education by country
+    0.93% (2013)
+    Government expenditure per student, tertiary (% of GDP per capita)
+    24.54% (2015)
+    Government revenue as a share of GDP
+    30.07% (2016)
+    Gross Domestic Product (World Bank (1960 to 2017))
+    $34.82 billion (2017)
+    Gross enrollment ratio in secondary education
+    96.06% (2014)
+    Gross enrollment ratio in tertiary education
+    69.36% (2014)
+    Gross enrolment ratio, secondary education, gender parity index (GPI)
+    0.98 GPI (2014)
+    Gross enrolment ratio, tertiary, gender parity index (GPI)
+    1.31 GPI (2014)
+    Growth rate of real GDP per employed person
+    4.3% (2018)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    Homicide rate (World Bank (1995 to 2016))
+    0.16 (2016)
+    Imports of goods and services (constant 2010 US $)
+    $14.83 billion (2017)
+    Insecticide use
+    43.15 t (2015)
+    International migrant stock
+    342,703 (2015)
+    International tourism: Number of arrivals
+    15.7 million (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    20,098.39 persons (2015)
+    Labour share of gross domestic product
+    29.4% (2015)
+    Life expectancy
+    84.2 years (2019)
+    Life expectancy
+    83.7 (2015)
+    Life expectancy (World Bank data)
+    83.85 years (2016)
+    Life expectancy at age 10
+    71.71 (2015)
+    Literacy rate
+    96.54% (2016)
+    Meat production
+    11,361 t (2018)
+    Meat supply per person
+    103.14 kg (2017)
+    Median Age
+    37.6 (2015)
+    Mobile cellular subscriptions
+    321.8 (2016)
+    Mobile cellular subscriptions by country
+    1.97 million (2016)
+    National GDP
+    51.67 billion (2017)
+    National average learning outcomes
+    561.9 (2015)
+    Natural population growth (per 1000 population) (UN (1950 to 2015))
+    0.82% (2015)
+    Net enrolment rate, secondary, gender parity index (GPI)
+    1.03 GPI (2014)
+    Net migration
+    25,000 (2017)
+    Number of children per who died before they were five years old per woman
+    <0.01 (2016)
+    Number of internet users by country
+    517,814 (2017)
+    Number of mobile cellular subscriptions by country
+    1.72 million (2013)
+    Number of people using safely managed drinking water
+    587,579 (2015)
+    Number of people with access to at least basic drinking water
+    587,606 (2015)
+    Number of people with access to electricity
+    612,167 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Number of people without access to safe drinking water
+    13,363 (2015)
+    Number of people without access to safe sanitation
+    600,942 (2015)
+    Number of poultry birds
+    780,000 (2018)
+    Number of tourist departures per 1000 people
+    2,234 (2017)
+    Official entrance age to compulsory education
+    5 years (2014)
+    Official entrance age to pre-primary education
+    3 years (2016)
+    Old-age dependency ratio
+    12.74% (2017)
+    Ores and metals exports (% of merchandise exports)
+    1.04% (2016)
+    PISA test score: Mean performance on the mathematics scale
+    543.81 (2015)
+    PISA test score: Mean performance on the reading scale
+    508.69 (2015)
+    PISA test score: Mean performance on the science scale
+    528.55 (2015)
+    Patent applications per million residents
+    5 (2015)
+    Per capita egg consumption
+    18.17 kg (2017)
+    Per capita milk consumption
+    31.61 kg (2017)
+    Percentage of all students in tertiary education enrolled in ISCED 6, both sexes (%)
+    77.2% (2014)
+    Percentage of graduates from Science and Technology programmes in tertiary education who are female (%)
+    19.85% (2014)
+    Percentage of individuals using the internet by country
+    69.78% (2014)
+    Percentage of teachers in lower secondary education who are qualified (%)
+    100% (2014)
+    Percentage of teachers in pre-primary education who are qualified (%)
+    100% (2014)
+    Percentage of teachers in primary education who are qualified
+    100% (2014)
+    Percentage of teachers in primary education who are qualified, both sexes (%)
+    100% (2014)
+    Percentage of teachers in secondary education who are qualified (%)
+    100% (2014)
+    Percentage of teachers in upper secondary education who are qualified (%)
+    100% (2014)
+    Personal remittances as a share of GDP
+    0.05% (2017)
+    Pesticide use
+    17 t (2017)
+    Pig meat per animal
+    873 kg (2018)
+    Pigmeat production
+    6,544 t (2018)
+    Population (Gapminder & UN (1800 to 2019))
+    640,000 (2019)
+    Population
+    640,000 (2019)
+    Population density
+    19,602.24 (2015)
+    Population density
+    20,547 (2017)
+    Population under five years old
+    32,351 (2015)
+    Poultry meat per animal
+    0.84 kg (2018)
+    Poultry production
+    3,983 t (2018)
+    Primary school completion rate
+    101.65% (2016)
+    Projected female population without education
+    9.07 (2015)
+    Projected share of the population in extreme poverty
+    0.24% (2019)
+    Projections of the share of the population aged 15+ educated to degree level by country
+    14.52% (2015)
+    Proportion of labor force who are women
+    49.03% (2017)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    51.51% (2017)
+    Proportion of total manufacturing value added from medium and high-tech industry
+    6.3% (2016)
+    Proportion of youth (aged 15–24 years) not in education, employment or training
+    4.96% (2016)
+    Pupil-teacher ratio for primary education
+    13.7 (2014)
+    Pupil-teacher ratio in pre-primary education
+    16.04 (2014)
+    Pupil-teacher ratio in pre-primary education
+    16.04 (2014)
+    Rate of natural population increase (UN)
+    0.82% (2015)
+    Ratio of female to male labor force participation rates (%)
+    86.9% (2017)
+    Real GDP per capita (Penn World Tables (1950 to 2014))
+    $82,995.45 (2017)
+    Red List Index
+    0.97 (2019)
+    Refugee population by country or territory of asylum
+    1 (2011)
+    Refugee population by country or territory of origin
+    4 (2016)
+    Researchers in R&D per million people
+    1,308.35 (2015)
+    Secure Internet servers
+    1,780 (2017)
+    Sex ratio at birth
+    1 (2017)
+    Sex ratio at birth (Chao et al. (2019))
+    108.45 (2017)
+    Sex ratio of five-year-olds
+    107 (2015)
+    Share enrolled in private institutions at the pre-primary education level
+    97.47% (2014)
+    Share enrolled in private institutions at the primary education level
+    97.68% (2014)
+    Share enrolled in private institutions at the tertiary education level
+    53.98% (2014)
+    Share of cereals allocated to animal feed
+    0% (2017)
+    Share of cereals allocated to human food
+    89.61% (2017)
+    Share of cereals allocated to industrial uses
+    10.39% (2017)
+    Share of domestic budget funded by domestic taxes
+    27.63% (2016)
+    Share of electricity production from renewable sources
+    0% (2014)
+    Share of employee compensation in public spending
+    30.83% (2016)
+    Share of final energy consumption from renewable sources
+    7.05% (2015)
+    Share of food products in total merchandise exports
+    0.74% (2016)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of government expenditure spent on education
+    13.37% (2015)
+    Share of important terrerstrial biodiversity sites that are protected
+    0% (2018)
+    Share of manufactures in total merchandise exports
+    0% (2016)
+    Share of migrants among the population
+    58.32% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    100% (2017)
+    Share of people who are undernourished
+    11.2% (2017)
+    Share of population using at least basic drinking water source
+    100% (2015)
+    Share of primary school teachers who are female
+    86.64% (2014)
+    Share of primary-school-age children who are out of school
+    1.28% (2016)
+    Share of secondary school teachers who are female
+    58.87% (2014)
+    Share of services in total exports
+    95.53% (2016)
+    Share of students achieving advanced learning outcomes
+    37.02% (2015)
+    Share of students achieving intermediate learning outcomes
+    85.64% (2015)
+    Share of students achieving minimum learning outcomes
+    95.62% (2015)
+    Share of students from abroad
+    36.83% (2014)
+    Share of students studying abroad
+    7.57% (2013)
+    Share of teachers in lower secondary education who are trained
+    80% (2014)
+    Share of teachers in pre-primary education who are trained
+    92.1% (2014)
+    Share of teachers in primary education who are trained
+    88.2% (2014)
+    Share of teachers in secondary education who are trained
+    81.76% (2014)
+    Share of teachers in tertiary education who are female
+    35.74% (2014)
+    Share of teachers in upper secondary education who are trained
+    83.27% (2014)
+    Share of the labor force employed in agriculture
+    0.53% (2017)
+    Share of the population living in urban areas
+    100% (2019)
+    Share of the population that is female
+    52% (2017)
+    Share of the population using safely managed drinking water
+    100% (2015)
+    Share of the population using the Internet
+    83.17% (2017)
+    Share of the population with a completed post-secondary education
+    19.6% (2011)
+    Share of the population with access to electricity
+    100% (2016)
+    Share of the population with at least some secondary education
+    68.5% (2011)
+    Share of the urban population who live in the largest city
+    100% (2017)
+    Share of youth not in education, employment or training
+    4.96% (2016)
+    Small-scale industries as a share of total industry value added
+    32.5% (2016)
+    Spending on research and development as share of GDP
+    0.13% (2015)
+    Staff compensation as share of total expenditure in public education (all levels)
+    49.79% (2013)
+    Statutory corporate income tax rate
+    12% (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    2 (2016)
+    TB patients tested positive for HIV
+    4 (2016)
+    TFP at constant national prices (2011=1)
+    0.72 (2017)
+    Tariff rate across all products
+    0% (2016)
+    Taxes on goods and services
+    25.76% (2017)
+    Taxes on incomes of individuals and corporations
+    1.97% (2017)
+    Threatened mammal species
+    0 species (2017)
+    Total government expenditure on education
+    2.98% (2015)
+    Total natural resources rents (% of GDP)
+    <0.01% (2016)
+    Total tax revenues
+    28.16% (2017)
+    Trade Openness
+    111.41% (2017)
+    Trade in services (exports plus imports) as share of GDP
+    81.71% (2016)
+    Trade – exports plus imports – as share of GDP
+    111.41% (2017)
+    Tuberculosis incidence (per 100,000 people)
+    67 (2016)
+    Tuberculosis incidence per 100,000 people
+    67 (2016)
+    Unemployment rate
+    1.98% (2017)
+    Unsentenced detainees as a proportion of overall prison population
+    20.6% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    100% (2016)
+    Value of exported goods as share of GDP
+    5.83% (2014)
+    Value of exported of goods and services
+    $30.75 billion (2017)
+    Value of exports as a share of GDP
+    5.83% (2014)
+    Value of imported goods (% GDP)
+    23.75% (2014)
+    Vegetable consumption per capita
+    134.57 kg (2017)
+    Women's life expectancy at birth
+    86.62 (2015)
+    Youth dependency ratio
+    17.24% (2017)
+    Youth literacy rate, female
+    99.65% (2015)
+    Youth literacy rate, male
+    99.67% (2015)

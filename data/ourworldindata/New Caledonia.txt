@@ -1,0 +1,402 @@
+    Above-ground biomass in forest per hectare
+    126.5 t/ha (2015)
+    Adolescent birth rate per 1,000 women aged 15-19
+    19.78 births (2016)
+    Adult literacy rate, population 15+ years, female (%)
+    96.53% (2015)
+    Adult literacy rate, population 15+ years, female (%)
+    96.53% (2015)
+    Adult literacy rate, population 15+ years, male (%)
+    97.34% (2015)
+    Age dependency ratio
+    48.09% (2017)
+    Agricultural area per capita
+    0.72 hectares (2013)
+    Annual CO2 emissions
+    5.56 million t (2017)
+    Annual share of global CO2 emissions
+    0.02% (2017)
+    Aquaculture production
+    1,587 t (2016)
+    Arable land needed to produce a fixed quantity of crops (1961 = 1)
+    1.31 (2014)
+    Arable land use per person
+    0.02 hectares (2015)
+    Average per capita supply of pulses
+    1.68 kg (2013)
+    Banana production
+    1,541 t (2018)
+    Banana yields
+    39,124 t (2018)
+    Beef and buffalo meat consumption per person
+    16.07 kilograms (2013)
+    Beef production
+    2,886 t (2018)
+    Broadband subscriptions per 100 people
+    20.58 (2015)
+    Cassava production
+    674 t (2018)
+    Cassava yields
+    28,225 t (2018)
+    Cattle meat per animal
+    195 kg (2018)
+    Cereal production
+    10,309 t (2018)
+    Cereal yield
+    74,814 t (2018)
+    Chicken meat production
+    862 t (2018)
+    Chicken meat yield per animal
+    17,834 kg (2018)
+    Child dependency ratio – the ratio between under-19-year-olds and 20-to-69-year-olds
+    48.79 (2015)
+    Child mortality (UN (from 1950))
+    1.41% (2015)
+    Child mortality (Long-run data; Gapminder & UN IGME)
+    13.8% (2016)
+    Children born per woman
+    2.11 (2019)
+    Children per woman (UN; 1950 to 2015)
+    2.19 (2015)
+    Coffee bean production
+    5 t (2018)
+    Coffee bean yields
+    1,360 t (2018)
+    Coverage by protected areas of important sites for mountain biodiversity
+    69.72% (2018)
+    Crude birth rate
+    15.87 (2015)
+    Crude death rate: the share of the population that dies per year
+    0.68% (2015)
+    Cumulative CO2 emissions
+    133.51 million t (2017)
+    Daily meat consumption per person
+    82.37 g (2013)
+    Daily per capita caloric supply
+    2,853 kcal (2013)
+    Daily per capita fat supply
+    119.27 g (2017)
+    Daily per capita protein supply
+    82.77 g (2017)
+    Daily per capita supply of calories
+    2,853 kcal (2013)
+    Daily supply of calories
+    2,752 kcal (2017)
+    Differences in life expectancy are more regional than national
+    76.96 years (2016)
+    Egg production
+    2,130 t (2018)
+    Eggs per bird
+    150,070 kg (2018)
+    Employment in agriculture (% of total employment)
+    3.45% (2017)
+    Estimated TB-related deaths among people living with HIV
+    0 (2016)
+    Fat supply by region
+    121.57 g (2013)
+    Female employment-to-population ratio
+    49.72 (2014)
+    Female employment-to-population ratio
+    48.37% (2017)
+    Female labor force participation rates
+    57.45% (2017)
+    Fertility rate over the long-term
+    2.11 (2019)
+    Fertilizer application rates over the long-run
+    287.34 kg/ha (2014)
+    Fertilizer use per hectare of cropland
+    247.13 kilograms (2015)
+    Fish and seafood consumption per capita
+    23.8 kg (2017)
+    Fixed broadband subscriptions (per 100 people)
+    20.58 (2015)
+    Fixed telephone subscriptions
+    28.88 (2015)
+    Forest area (% of land area)
+    45.9% (2015)
+    Forest area as share of land area
+    45.9% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    8,390 km² (2015)
+    Forest area net change rate
+    0% (2015)
+    Fruit consumption per capita
+    65.29 kg (2017)
+    Fuel exports (% of merchandise exports)
+    0.01% (2015)
+    Future life expectancy projections
+    77.53 (2019)
+    Future population projections by country (IIASA (1970 to 2100))
+    270,140 (2015)
+    GDP per person employed (constant 2011 PPP $)
+    $88,373.4 (2017)
+    Global capture fishery production
+    3,815 (2016)
+    Global meat demand if everyone ate like the average citizen of...
+    591.65 million tonnes (2013)
+    Growth rate of real GDP per employed person
+    1.9% (2018)
+    Has country already reached SDG target for access to sanitation?
+    100% (2015)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    Has country already reached SDG target on improved water access?
+    98.5% (2015)
+    Industry employment (% of total employment)
+    26.92% (2017)
+    Insecticide use
+    0.13 t (2017)
+    Internally displaced persons from natural disasters
+    570 (2017)
+    International migrant stock
+    64,290 (2015)
+    International tourism: Number of arrivals
+    116,000 (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    14.72 persons (2015)
+    Life expectancy
+    77.5 years (2019)
+    Life expectancy
+    76.76 (2015)
+    Life expectancy (World Bank data)
+    76.96 years (2016)
+    Life expectancy at age 10
+    68.4 (2015)
+    Long-term wheat yields in Europe
+    1.76 tonnes/ha (2014)
+    Maize production
+    10,184 t (2018)
+    Maize yields
+    88,202 t (2018)
+    Meat production
+    6,663 t (2018)
+    Meat supply per person
+    68.6 kg (2017)
+    Median Age
+    32.8 (2015)
+    Milk per animal
+    14,824 kg (2018)
+    Milk production
+    450 t (2018)
+    Milk production
+    450 t (2018)
+    Mobile cellular subscriptions
+    96.72 (2015)
+    Mobile cellular subscriptions by country
+    260,277 (2015)
+    Natural population growth (per 1000 population) (UN (1950 to 2015))
+    0.9% (2015)
+    Net migration
+    5,664 (2017)
+    Nitrogen fertilizer use per hectare of cropland
+    54.88 kg (2017)
+    Number of cattle
+    83,493 (2018)
+    Number of children per who died before they were five years old per woman
+    0.03 (2016)
+    Number of deaths from earthquakes
+    0 (2017)
+    Number of internet users by country
+    199,132 (2015)
+    Number of mobile cellular subscriptions by country
+    240,500 (2013)
+    Number of people using at least basic sanitation facilities
+    263,118 (2015)
+    Number of people using safely managed drinking water
+    255,396 (2015)
+    Number of people with access to at least basic drinking water
+    260,446.98 (2015)
+    Number of people with access to electricity
+    276,550 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Number of people without access to improved sanitation
+    0 (2015)
+    Number of people without access to safe drinking water
+    17,004 (2015)
+    Number of people without access to safe sanitation
+    272,400 (2015)
+    Number of pigs
+    40,268 (2018)
+    Number of poultry birds
+    477,000 (2018)
+    Number of tourist departures per 1000 people
+    481 (2017)
+    Old-age dependency ratio
+    14.74% (2017)
+    Orange production
+    1,275 t (2018)
+    Orange yields
+    125,650 t (2018)
+    Ores and metals exports (% of merchandise exports)
+    37.75% (2015)
+    Per capita alcohol consumption, kilograms per year
+    66.96 kilograms (2013)
+    Per capita egg consumption
+    8.76 kg (2017)
+    Per capita milk consumption
+    32.35 kg (2017)
+    Percentage of individuals using the internet by country
+    70% (2014)
+    Pesticide use
+    7 t (2017)
+    Pesticide use per hectare of cropland
+    0.67 kg (2017)
+    Phosphate fertilizer use per hectare of cropland
+    38.67 kg (2017)
+    Pig meat per animal
+    894 kg (2018)
+    Pigmeat production
+    2,906 t (2018)
+    Population (Gapminder & UN (1800 to 2019))
+    283,000 (2019)
+    Population
+    283,000 (2019)
+    Population density
+    14.43 (2015)
+    Population density
+    15 (2017)
+    Population under five years old
+    21,228 (2015)
+    Potash fertilizer use per hectare of cropland
+    51.56 kg (2017)
+    Potato production
+    2,510 t (2018)
+    Potato yields
+    86,655 t (2018)
+    Poultry meat per animal
+    1.78 kg (2018)
+    Poultry production
+    862 t (2018)
+    Projected female population without education
+    4.83 (2015)
+    Proportion of labor force who are women
+    45.68% (2017)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    67.11% (2017)
+    Proportion of youth (aged 15–24 years) not in education, employment or training
+    11.84% (2014)
+    Protein supply by region
+    87.03 g (2013)
+    Rate of natural population increase (UN)
+    0.9% (2015)
+    Ratio of female to male labor force participation rates (%)
+    84.49% (2017)
+    Red List Index
+    0.65 (2019)
+    Rice yields
+    74,814 t (2018)
+    Secure Internet servers
+    2,856 (2017)
+    Sex ratio at birth
+    1 (2017)
+    Sex ratio at birth (Chao et al. (2019))
+    106.04 (2017)
+    Sex ratio of five-year-olds
+    106 (2015)
+    Share of cereals allocated to animal feed
+    22.95% (2017)
+    Share of cereals allocated to human food
+    45.9% (2017)
+    Share of cereals allocated to industrial uses
+    31.15% (2017)
+    Share of electricity production from renewable sources
+    13.35% (2014)
+    Share of final energy consumption from renewable sources
+    4.76% (2015)
+    Share of food products in total merchandise exports
+    1.36% (2015)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    64.88% (2018)
+    Share of land area used for agriculture
+    10.08% (2015)
+    Share of land area used for arable agriculture
+    0.34% (2015)
+    Share of land used for permanent meadows and pastures
+    9.52% (2017)
+    Share of manufactures in total merchandise exports
+    59.04% (2015)
+    Share of marine territorial waters that are protected
+    96.59% (2017)
+    Share of migrants among the population
+    24.43% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    70.26% (2017)
+    Share of people practicing open defecation
+    0% (2015)
+    Share of people who are undernourished
+    7.1% (2017)
+    Share of population using at least basic drinking water source
+    98.98% (2015)
+    Share of population using at least basic sanitation facilities
+    100% (2015)
+    Share of population with improved sanitation faciltities
+    100% (2015)
+    Share of rural population with access to improved water sources
+    98.5% (2015)
+    Share of rural population with improved sanitation faciltities
+    100% (2015)
+    Share of services in total exports
+    28.8% (2016)
+    Share of the labor force employed in agriculture
+    3.45% (2017)
+    Share of the population living in urban areas
+    71.1% (2019)
+    Share of the population that is female
+    49.62% (2017)
+    Share of the population using safely managed drinking water
+    97.07% (2015)
+    Share of the population using the Internet
+    74% (2015)
+    Share of the population with access to electricity
+    100% (2016)
+    Share of the population with access to improved drinking water
+    98.5% (2015)
+    Share of urban population with improved sanitation faciltities
+    100% (2015)
+    Share of urban population with improved water sources
+    98.5% (2015)
+    Share of youth not in education, employment or training
+    11.84% (2014)
+    Sweet potato production
+    450 t (2018)
+    Threatened mammal species
+    9 species (2017)
+    Total number of fatal shark attacks
+    0 (2018)
+    Total shark attacks per year
+    2 (2018)
+    Trade Openness
+    63.37% (2017)
+    Tuberculosis incidence (per 100,000 people)
+    16 (2016)
+    Tuberculosis incidence per 100,000 people
+    16 (2016)
+    Unemployment rate
+    14.75% (2017)
+    Unemployment rate, women
+    17.63% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    69.82% (2016)
+    Value of agricultural production
+    $74.21 (2016)
+    Vegetable consumption per capita
+    65.39 kg (2017)
+    Wheat production
+    4 t (2018)
+    Wheat yields
+    13,864 t (2018)
+    Women's life expectancy at birth
+    79.75 (2015)
+    Yams production
+    2,362 t (2018)
+    Youth dependency ratio
+    33.35% (2017)
+    Youth literacy rate, female
+    99.81% (2015)
+    Youth literacy rate, male
+    99.57% (2015)

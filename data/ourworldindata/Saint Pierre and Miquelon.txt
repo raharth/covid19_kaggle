@@ -1,0 +1,62 @@
+    Annual CO2 emissions
+    81,871 t (2017)
+    Annual share of global CO2 emissions
+    <0.01% (2017)
+    Chicken meat production
+    2 t (2018)
+    Chicken meat yield per animal
+    12,000 kg (2018)
+    Cumulative CO2 emissions
+    3.6 million t (2017)
+    Egg production
+    15 t (2018)
+    Eggs per bird
+    30,941 kg (2018)
+    Forest area as share of land area
+    12.17% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area net change rate
+    -0.7% (2015)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    27.35 persons (2015)
+    Life expectancy
+    81.1 years (2019)
+    Meat production
+    2 t (2018)
+    Number of cattle
+    38 (2018)
+    Number of people using at least basic sanitation facilities
+    6,237.61 (2014)
+    Number of people using safely managed drinking water
+    5,227 (2015)
+    Number of people with access to at least basic drinking water
+    5,747.23 (2015)
+    Number of poultry birds
+    45,000 (2018)
+    Population (Gapminder & UN (1800 to 2019))
+    6,000 (2019)
+    Population
+    6,000 (2019)
+    Population density
+    29.14 (2015)
+    Poultry meat per animal
+    1.2 kg (2018)
+    Poultry production
+    2 t (2018)
+    Proportion of forest area within legally established protected areas
+    0% (2015)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    74.29% (2017)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of population using at least basic drinking water source
+    91.4% (2015)
+    Share of population using at least basic sanitation facilities
+    99.34% (2014)
+    Share of the population living in urban areas
+    89.94% (2019)
+    Share of the population using safely managed drinking water
+    83.13% (2015)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    89.89% (2016)

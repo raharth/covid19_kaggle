@@ -1,0 +1,302 @@
+    Access to clean fuels and technologies for cooking
+    100% (2016)
+    Air transport, freight (ton-km)
+    0 (2013)
+    Annual healthcare expenditure per capita
+    $7,301.91 (2014)
+    Average monthly precipitation
+    10.3 mm (2014)
+    Broadband subscriptions per 100 people
+    49.77 (2017)
+    Child mortality (Long-run data; Gapminder & UN IGME)
+    3.4% (2016)
+    Child mortality by income level of country
+    0.33% (2017)
+    Child mortality rate (UN IGME (1960 to 2017))
+    0.33% (2017)
+    Child mortality rate (With SDG Target)
+    0.33 (2017)
+    Completeness of birth registration
+    100% (2014)
+    Consumption of Ozone-Depleting Substances
+    <1 tonnes (2013)
+    Death rate due to road traffic injuries
+    0 (2013)
+    Death rate due to tuberculosis
+    0 (2015)
+    Dentistry personnel per 1,000 population
+    9.97 (2014)
+    Duration of compulsory education
+    11 years (2014)
+    Duration of pre-primary education
+    3 years (2016)
+    Estimated TB-related deaths among people living with HIV
+    0 (2016)
+    Female employment-to-population ratio
+    39.22 (2016)
+    Fixed broadband subscriptions (per 100 people)
+    49.77 (2017)
+    Fixed telephone subscriptions
+    121.5 (2017)
+    Forest area as share of land area
+    0% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    GDP in British pounds
+    £3.79 billion (2011)
+    Gender gap in pre-primary education: Share of students in pre-primary education who are female
+    47.05% (2014)
+    Gender gap in primary education: Share of enrolled female primary education students
+    50.12% (2016)
+    Global capture fishery production
+    1 (2016)
+    Government expenditure on education (% of GDP)
+    1.37% (2016)
+    Government expenditure on pre-primary education as share of GDP
+    0.04% (2014)
+    Government expenditure on primary education as share of GDP
+    0.16% (2014)
+    Government expenditure on primary education by country
+    4% (2011)
+    Government expenditure on secondary education as share of GDP
+    0.42% (2014)
+    Government expenditure on secondary education by country, 1974-2014
+    9.97% (2011)
+    HadCRUT Surface Temperature Anomaly
+    1.49 ℃ (2017)
+    Has country already reached SDG target for access to sanitation?
+    100% (2015)
+    Has country already reached SDG target on child mortality?
+    0.33% (2017)
+    Has country already reached SDG target on clean cooking fuels?
+    100% (2016)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    Has country already reached SDG target on improved water access?
+    100% (2015)
+    Has country already reached SDG target on neonatal mortality?
+    1.7 (2017)
+    Healthcare expenditure
+    4.34% (2014)
+    Homicide rate (World Bank (1995 to 2016))
+    0 (2015)
+    Human Rights Scores
+    4.29 (2017)
+    Immunization against diphtheria, tetanus, and pertussis
+    99% (2017)
+    Infant mortality rate (UN IGME (1960 to 2017))
+    2.7% (2017)
+    International migrant stock
+    21,042 (2015)
+    International tourism: Number of arrivals
+    336,000 (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    25,709.4 persons (2015)
+    Life expectancy
+    86.8 years (2019)
+    MDG4.A: Child mortality rate (per 1,000 live births)
+    0.33 (2017)
+    Medical doctors per 1,000 people
+    6.64 (2014)
+    Military expenditure as a share of GDP
+    0% (2011)
+    Military expenditure per capita
+    $0 (2012)
+    Military personnel
+    0 (2012)
+    Military personnel as share of the population
+    0% (2012)
+    Mobile cellular subscriptions
+    85.23 (2017)
+    Mobile cellular subscriptions by country
+    32,978 (2017)
+    Neonatal mortality rate (UN IGME (1960 to 2017))
+    1.7% (2017)
+    Neonatal mortality rate (With SDG Target)
+    1.7 (2017)
+    Number of child deaths
+    1 (2017)
+    Number of confirmed tetanus cases (WHO 2017)
+    1 cases (2012)
+    Number of infant deaths
+    1 (2017)
+    Number of local governments that adopt disaster risk reduction strategies
+    1 (2018)
+    Number of mobile cellular subscriptions by country
+    35,464 (2013)
+    Number of neonatal deaths
+    1 (2017)
+    Number of people requiring interventions against neglected tropical diseases (NTDs)
+    0 (2015)
+    Number of people requiring interventions for neglected tropical diseases
+    0 (2015)
+    Number of people using at least basic sanitation facilities
+    37,731 (2015)
+    Number of people using safely managed drinking water
+    37,731 (2015)
+    Number of people using safely managed sanitation facilities
+    37,731 (2015)
+    Number of people with access to at least basic drinking water
+    37,731 (2015)
+    Number of people with access to electricity
+    38,499 (2016)
+    Number of people without access to clean fuels for cooking
+    0 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Number of people without access to improved sanitation
+    0 (2015)
+    Number of people without access to safe drinking water
+    576 (2015)
+    Number of people without access to safe sanitation
+    576 (2015)
+    Number of under-five deaths
+    1 (2017)
+    Nurses and midwives per 1,000 people
+    20.52 (2014)
+    Official entrance age to compulsory education
+    6 years (2014)
+    Official entrance age to pre-primary education
+    3 years (2016)
+    Out-of-pocket expenditure per capita on healthcare
+    $206.57 (2015)
+    Patent applications per million residents
+    131 (2015)
+    People practicing open defecation in urban areas (% of urban population)
+    0% (2015)
+    Percentage of individuals using the internet by country
+    92.4% (2014)
+    Pharmaceutical personnel per 1,000 population
+    25.72 (2014)
+    Population (Gapminder & UN (1800 to 2019))
+    39,000 (2019)
+    Population
+    39,000 (2019)
+    Population density
+    17,203.18 (2015)
+    Population density
+    19,348 (2017)
+    Private health expenditure per person
+    $652.51 (2015)
+    Proportion of seats held by women in national parliaments
+    20.8% (2017)
+    Proportion of women in ministerial positions
+    20% (2016)
+    Public expenditure on healthcare as percent of total healthcare expenditure
+    88.55% (2014)
+    Public expenditure on healthcare by country income groups
+    88.55% (2014)
+    Public health expenditure (% GDP)
+    3.84% (2014)
+    Pump price for diesel fuel (US$ per liter)
+    $1.78 (2014)
+    Pump price for gasoline (US$ per liter)
+    $2 (2014)
+    Red List Index
+    0.76 (2019)
+    Refugee population by country or territory of asylum
+    25 (2017)
+    Refugee population by country or territory of origin
+    3 (2016)
+    Reported cases of measles
+    0 (2019)
+    Reported paralytic polio cases (per 1 million people)
+    0 (2015)
+    Risk of impoverishing expenditure for surgical care (% of people at risk)
+    0% (2014)
+    Scientific and technical journal articles
+    40 (2016)
+    Scientific and technical journal publications per million residents
+    906 (2013)
+    Score of adoption of legislative and/or regulatory provisions for managing disaster risk
+    0.6 (2018)
+    Secure Internet servers
+    9,639 (2017)
+    Sex ratio at birth (Chao et al. (2019))
+    104.36 (2017)
+    Share enrolled in private institutions at the pre-primary education level
+    20.8% (2014)
+    Share enrolled in private institutions at the primary education level
+    21.46% (2014)
+    Share of Out-of-Pocket Expenditure on Healthcare
+    7% (2014)
+    Share of government expenditure spent on education
+    6.6% (2016)
+    Share of government expenditure spent on health
+    18.82% (2014)
+    Share of local governments that adopt and implement local disaster risk reduction strategies
+    100% (2018)
+    Share of marine territorial waters that are protected
+    99.83% (2017)
+    Share of migrants among the population
+    55.77% (2015)
+    Share of one-year-olds vaccinated against diphtheria, pertussis, and tetanus (DTP3)
+    99% (2017)
+    Share of one-year-olds vaccinated against hepatitis B
+    99% (2017)
+    Share of one-year-olds vaccinated against measles (MCV1)
+    87% (2017)
+    Share of one-year-olds vaccinated against polio (Pol3)
+    99% (2015)
+    Share of one-year-olds vaccinated against tuberculosis (BCG)
+    89% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    100% (2017)
+    Share of people practicing open defecation
+    0% (2015)
+    Share of population using at least basic drinking water source
+    100% (2015)
+    Share of population using at least basic sanitation facilities
+    100% (2015)
+    Share of population using safely managed sanitation facilities
+    100% (2015)
+    Share of population with improved sanitation faciltities
+    100% (2015)
+    Share of the population living in urban areas
+    100% (2019)
+    Share of the population using safely managed drinking water
+    100% (2015)
+    Share of the population using the Internet
+    95.21% (2016)
+    Share of the population with access to electricity
+    100% (2016)
+    Share of the population with access to improved drinking water
+    100% (2015)
+    Share of urban population with improved sanitation faciltities
+    100% (2015)
+    Share of urban population with improved water sources
+    100% (2015)
+    Specialist surgical workforce (per 100,000 population)
+    196.69 (2014)
+    Staff compensation as share of total expenditure in primary public education
+    93.1% (2014)
+    Staff compensation as share of total expenditure in public education (all levels)
+    87.31% (2014)
+    Statutory corporate income tax rate
+    33% (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    0 (2015)
+    TB patients tested positive for HIV
+    0 (2015)
+    The number of reported paralytic polio cases
+    0 (2016)
+    Threatened mammal species
+    3 species (2017)
+    Total government expenditure on education
+    1.37% (2016)
+    Total natural resources rents (% of GDP)
+    0% (2011)
+    Trade Openness
+    62.87% (2017)
+    Tuberculosis incidence (per 100,000 people)
+    0 (2016)
+    Tuberculosis incidence per 100,000 people
+    0 (2016)
+    Unsentenced detainees as a proportion of overall prison population
+    35.1% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    100% (2016)
+    Yaws status of endemicity and number of cases
+    No previous history of yaws (2016)
+    Youth mortality rate
+    0.42% (2017)

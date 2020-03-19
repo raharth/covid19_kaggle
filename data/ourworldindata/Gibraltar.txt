@@ -1,0 +1,122 @@
+    Annual CO2 emissions
+    527,616 t (2014)
+    Annual greenhouse gas emissions
+    473.01 t (2012)
+    Annual share of global CO2 emissions
+    <0.01% (2014)
+    Broadband subscriptions per 100 people
+    50.25 (2017)
+    Coverage by protected areas of important sites for mountain biodiversity
+    34.98% (2018)
+    Cumulative CO2 emissions
+    11.38 million t (2017)
+    Duration of compulsory education
+    10 years (2014)
+    Duration of pre-primary education
+    1 years (2016)
+    Energy imports (% energy use)
+    100% (2014)
+    Energy imports and exports
+    100% (2014)
+    Energy use per capita
+    5,759 kWh (2014)
+    Fixed broadband subscriptions (per 100 people)
+    50.25 (2017)
+    Fixed telephone subscriptions
+    57.14 (2017)
+    Forest area (% of land area)
+    0% (2015)
+    Forest area as share of land area
+    0% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    0 km² (2015)
+    Gender gap in primary education: Share of enrolled female primary education students
+    49.03% (2016)
+    Global capture fishery production
+    1 (2016)
+    Greenhouse gas emissions per capita
+    14.07 t (2012)
+    Greenhouse gas emissions per capita per day
+    38.54 kg (2012)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    International migrant stock
+    11,065 (2015)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    3,422.8 persons (2015)
+    Life expectancy
+    79.9 years (2019)
+    Mobile cellular subscriptions
+    118.7 (2017)
+    Mobile cellular subscriptions by country
+    41,035 (2017)
+    Nuclear energy, share of electricity production
+    0% (2014)
+    Number of people using safely managed drinking water
+    31,912 (2015)
+    Number of people with access to at least basic drinking water
+    32,094.02 (2015)
+    Number of people with access to electricity
+    34,408 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Number of people without access to safe drinking water
+    2,316 (2015)
+    Number of people without access to safe sanitation
+    34,228 (2015)
+    Official entrance age to compulsory education
+    5 years (2014)
+    Official entrance age to pre-primary education
+    4 years (2016)
+    Per capita electricity consumption
+    5,640.75 kWh (2014)
+    Per capita electricity consumption
+    5,640.75 kWh (2014)
+    Percentage of individuals using the internet by country
+    65.02% (2012)
+    Population (Gapminder & UN (1800 to 2019))
+    34,000 (2019)
+    Population
+    34,000 (2019)
+    Population density
+    5,190.18 (2015)
+    Population density
+    3,457 (2017)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    31.26% (2017)
+    Refugee population by country or territory of origin
+    1 (2016)
+    Secure Internet servers
+    17,934 (2017)
+    Share of electricity production from renewable sources
+    0% (2014)
+    Share of final energy consumption from renewable sources
+    0% (2015)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    34.98% (2018)
+    Share of marine territorial waters that are protected
+    12.82% (2017)
+    Share of migrants among the population
+    34.35% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    100% (2017)
+    Share of population using at least basic drinking water source
+    99.62% (2015)
+    Share of the population living in urban areas
+    100% (2019)
+    Share of the population using safely managed drinking water
+    99.05% (2015)
+    Share of the population using the Internet
+    94.44% (2016)
+    Share of the population with access to electricity
+    100% (2016)
+    Threatened mammal species
+    4 species (2017)
+    Unsentenced detainees as a proportion of overall prison population
+    26.8% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    100% (2016)

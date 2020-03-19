@@ -1,0 +1,230 @@
+    Annual CO2 emissions
+    542,272 t (2014)
+    Annual share of global CO2 emissions
+    <0.01% (2014)
+    Arable land use per person
+    <0.01 hectares (2015)
+    Avocado production
+    22 t (2018)
+    Banana production
+    217 t (2018)
+    Banana yields
+    7,605 t (2018)
+    Broadband subscriptions per 100 people
+    40.38 (2016)
+    Carbon emission intensity of economies
+    0.21 kg (2011)
+    Cassava production
+    7 t (2018)
+    Cassava yields
+    31,964 t (2018)
+    Cumulative CO2 emissions
+    14.06 million t (2017)
+    Cumulative drop-out rate to the last grade of lower secondary general education
+    4.48% (2012)
+    Duration of compulsory education
+    12 years (2016)
+    Duration of pre-primary education
+    2 years (2016)
+    Egg production
+    8 t (2018)
+    Eggs per bird
+    69,519 kg (2018)
+    Estimated TB-related deaths among people living with HIV
+    <1 (2016)
+    Female employment-to-population ratio
+    76.77 (2015)
+    Fixed broadband subscriptions (per 100 people)
+    40.38 (2016)
+    Fixed telephone subscriptions
+    56.14 (2016)
+    Forest area (% of land area)
+    52.92% (2015)
+    Forest area as share of land area
+    52.92% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    127 km² (2015)
+    Forest area net change rate
+    0% (2015)
+    GDP per capita (Penn World Tables (1950 to 2014))
+    29,804.46 (2017)
+    GDP per capita (World Bank (1990 to 2017))
+    $49,903 (2011)
+    Gender gap in pre-primary education: Share of students in pre-primary education who are female
+    48.5% (2013)
+    Gender gap in primary education: Share of enrolled female primary education students
+    49.7% (2013)
+    Global capture fishery production
+    125 (2016)
+    Has country already reached SDG target for access to sanitation?
+    95.6% (2015)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    Has country already reached SDG target on improved water access?
+    97.4% (2015)
+    Homicide rate (World Bank (1995 to 2016))
+    8.45 (2014)
+    International migrant stock
+    23,726 (2015)
+    International tourism: Number of arrivals
+    385,000 (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    249.85 persons (2015)
+    Life expectancy
+    83.9 years (2019)
+    Mobile cellular subscriptions
+    157.42 (2016)
+    Mobile cellular subscriptions by country
+    95,656 (2016)
+    National GDP
+    1.83 billion (2017)
+    Number of cattle
+    2,124 (2018)
+    Number of mobile cellular subscriptions by country
+    98,036 (2013)
+    Number of people using at least basic sanitation facilities
+    57,298.47 (2015)
+    Number of people with access to at least basic drinking water
+    57,643.28 (2015)
+    Number of people with access to electricity
+    60,765 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Number of people without access to improved sanitation
+    2,638 (2015)
+    Number of pigs
+    1,210 (2018)
+    Number of poultry birds
+    6,000 (2018)
+    Official entrance age to compulsory education
+    5 years (2016)
+    Official entrance age to pre-primary education
+    3 years (2016)
+    People practicing open defecation in urban areas (% of urban population)
+    0% (2015)
+    Percentage of individuals using the internet by country
+    74.1% (2014)
+    Percentage of teachers in primary education who are qualified
+    88.12% (2013)
+    Percentage of teachers in primary education who are qualified, both sexes (%)
+    88.12% (2013)
+    Population (Gapminder & UN (1800 to 2019))
+    65,000 (2019)
+    Population
+    65,000 (2019)
+    Population density
+    265.97 (2015)
+    Population density
+    256 (2017)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    51.7% (2017)
+    Pupil-teacher ratio for primary education
+    13.04 (2013)
+    Pupil-teacher ratio in pre-primary education
+    8.44 (2012)
+    Pupil-teacher ratio in pre-primary education
+    8.44 (2012)
+    Real GDP per capita (Penn World Tables (1950 to 2014))
+    $29,804.46 (2017)
+    Red List Index
+    0.81 (2019)
+    Refugee population by country or territory of asylum
+    24 (2017)
+    Refugee population by country or territory of origin
+    6 (2017)
+    Secure Internet servers
+    6,238 (2017)
+    Share enrolled in private institutions at the pre-primary education level
+    82.7% (2013)
+    Share enrolled in private institutions at the primary education level
+    38.3% (2013)
+    Share of electricity production from renewable sources
+    0% (2014)
+    Share of final energy consumption from renewable sources
+    0% (2015)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    32.49% (2018)
+    Share of land area used for agriculture
+    11.25% (2015)
+    Share of land area used for arable agriculture
+    0.83% (2015)
+    Share of land used for permanent meadows and pastures
+    8.33% (2017)
+    Share of marine territorial waters that are protected
+    0.08% (2017)
+    Share of migrants among the population
+    39.57% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    100% (2017)
+    Share of people practicing open defecation
+    0% (2015)
+    Share of population using at least basic drinking water source
+    96.13% (2015)
+    Share of population using at least basic sanitation facilities
+    95.55% (2015)
+    Share of population with improved sanitation faciltities
+    95.6% (2015)
+    Share of primary school teachers who are female
+    88.45% (2013)
+    Share of secondary school teachers who are female
+    67.41% (2012)
+    Share of teachers in lower secondary education who are trained
+    99% (2012)
+    Share of teachers in pre-primary education who are trained
+    77.14% (2012)
+    Share of teachers in primary education who are trained
+    88.12% (2013)
+    Share of teachers in secondary education who are trained
+    99.04% (2012)
+    Share of teachers in upper secondary education who are trained
+    99.08% (2012)
+    Share of the population living in urban areas
+    100% (2019)
+    Share of the population using the Internet
+    79% (2016)
+    Share of the population with a completed post-secondary education
+    54.8% (2014)
+    Share of the population with access to electricity
+    100% (2016)
+    Share of the population with access to improved drinking water
+    97.4% (2015)
+    Share of the population with at least some secondary education
+    94.8% (2014)
+    Share of urban population with improved sanitation faciltities
+    95.6% (2015)
+    Share of urban population with improved water sources
+    97.4% (2015)
+    Specialist surgical workforce (per 100,000 population)
+    156.75 (2015)
+    Statutory corporate income tax rate
+    0% (2018)
+    Sweet potato production
+    3 t (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    0 (2016)
+    TB patients tested positive for HIV
+    0 (2016)
+    Tariff rate across all products
+    16.72% (2016)
+    Threatened mammal species
+    1 species (2017)
+    Tomato production
+    5 t (2018)
+    Tomato yields
+    7.87 t (2018)
+    Trade Openness
+    123.21% (2017)
+    Tuberculosis incidence (per 100,000 people)
+    5.7 (2016)
+    Tuberculosis incidence per 100,000 people
+    5.7 (2016)
+    Unsentenced detainees as a proportion of overall prison population
+    25.4% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    100% (2016)
+    Yams production
+    28 t (2018)

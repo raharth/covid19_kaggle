@@ -1,0 +1,196 @@
+    Above-ground biomass in forest per hectare
+    120.45 t/ha (2015)
+    Annual CO2 emissions
+    4.17 million t (2014)
+    Annual share of global CO2 emissions
+    0.01% (2014)
+    Apple production
+    80 t (2018)
+    Arable land needed to produce a fixed quantity of crops (1961 = 1)
+    0.62 (2014)
+    Avocado production
+    732 t (2018)
+    Banana production
+    10,466 t (2018)
+    Banana yields
+    50,381 t (2018)
+    Bean production
+    2,251 t (2018)
+    Bean yields
+    7,797 t (2018)
+    Beef production
+    1,593 t (2018)
+    Cassava production
+    139 t (2018)
+    Cassava yields
+    99,124 t (2018)
+    Cattle meat per animal
+    230.5 kg (2018)
+    Cereal production
+    13,973 t (2018)
+    Cereal yield
+    77,509 t (2018)
+    Chicken meat production
+    20,115 t (2018)
+    Chicken meat yield per animal
+    11,050 kg (2018)
+    Child dependency ratio – the ratio between under-19-year-olds and 20-to-69-year-olds
+    52.57 (2015)
+    Child mortality (UN (from 1950))
+    0.44% (2015)
+    Child mortality (Long-run data; Gapminder & UN IGME)
+    4.2% (2016)
+    Children born per woman
+    2.24 (2019)
+    Children per woman (UN; 1950 to 2015)
+    2.35 (2015)
+    Coverage by protected areas of important sites for mountain biodiversity
+    81.02% (2018)
+    Crude birth rate
+    15.71 (2015)
+    Crude death rate: the share of the population that dies per year
+    0.57% (2015)
+    Cumulative CO2 emissions
+    90.32 million t (2017)
+    Egg production
+    7,309 t (2018)
+    Eggs per bird
+    127,747 kg (2018)
+    Fertility rate over the long-term
+    2.24 (2019)
+    Forest area as share of land area
+    35.06% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area net change rate
+    0% (2015)
+    Future life expectancy projections
+    80.92 (2019)
+    Future population projections by country (IIASA (1970 to 2100))
+    895,290 (2015)
+    Grape production
+    284 t (2018)
+    Groundnut yield
+    13,516 t (2018)
+    International finance received for clean energy
+    $1.5 (2015)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    345.35 persons (2015)
+    Labour share of gross domestic product
+    54.4% (2016)
+    Lettuce yields
+    121,515 t (2018)
+    Life expectancy
+    80.5 years (2019)
+    Life expectancy
+    80.09 (2015)
+    Life expectancy at age 10
+    71.13 (2015)
+    Maize production
+    13,770 t (2018)
+    Maize yields
+    78,498 t (2018)
+    Meat production
+    44,554 t (2018)
+    Median Age
+    34.5 (2015)
+    Milk per animal
+    4,912 kg (2018)
+    Milk production
+    22,319 t (2018)
+    Milk production
+    22,319 t (2018)
+    Natural population growth (per 1000 population) (UN (1950 to 2015))
+    1% (2015)
+    Number of cattle
+    31,000 (2018)
+    Number of children per who died before they were five years old per woman
+    <0.01 (2016)
+    Number of deaths from volcanic eruptions
+    0 (2017)
+    Number of people using at least basic sanitation facilities
+    852,327.17 (2015)
+    Number of people with access to at least basic drinking water
+    856,848.23 (2015)
+    Number of pigs
+    68,829 (2018)
+    Number of poultry birds
+    18.31 million (2018)
+    Number of significant volcanic eruptions
+    0 (2017)
+    Orange production
+    1,334 t (2018)
+    Orange yields
+    168,927 t (2018)
+    Pig meat per animal
+    903 kg (2018)
+    Pigmeat production
+    15,214 t (2018)
+    Population (Gapminder & UN (1800 to 2019))
+    889,000 (2019)
+    Population
+    889,000 (2019)
+    Population density
+    353.73 (2015)
+    Population under five years old
+    68,984 (2015)
+    Potato production
+    4,861 t (2018)
+    Potato yields
+    80,986 t (2018)
+    Poultry meat per animal
+    1.22 kg (2018)
+    Poultry production
+    25,035 t (2018)
+    Proportion of forest area within legally established protected areas
+    77.27% (2015)
+    Rate of natural population increase (UN)
+    1% (2015)
+    Red List Index
+    0.52 (2019)
+    Rice production
+    304 t (2018)
+    Rice yields
+    76,951 t (2018)
+    Sex ratio at birth (Chao et al. (2019))
+    103.53 (2017)
+    Sex ratio of five-year-olds
+    103 (2015)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    45.88% (2018)
+    Share of land used for permanent meadows and pastures
+    4.31% (2017)
+    Share of population using at least basic drinking water source
+    99.5% (2015)
+    Share of population using at least basic sanitation facilities
+    98.97% (2015)
+    Share of the population living in urban areas
+    99.62% (2019)
+    Sugar cane production
+    1.79 million t (2018)
+    Sugar cane yields
+    752,067 t (2018)
+    Sweet potato production
+    1,082 t (2018)
+    Tea production
+    919 t (2018)
+    Tea yields
+    14,732 t (2018)
+    Tobacco production
+    18 t (2018)
+    Tomato production
+    6,444 t (2018)
+    Tomato yields
+    67.63 t (2018)
+    Total number of fatal shark attacks
+    2 (2017)
+    Total shark attacks per year
+    3 (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    99.43% (2016)
+    Wine production
+    30 t (2014)
+    Women's life expectancy at birth
+    83.34 (2015)

@@ -1,0 +1,1520 @@
+    Above-ground biomass in forest per hectare
+    123.86 t/ha (2015)
+    Absolute number of deaths from ambient particulate air pollution
+    122,400 (2015)
+    Access to clean fuels and technologies for cooking
+    17.72% (2016)
+    Adjusted net saving (current US dollars)
+    $62.68 billion (2016)
+    Adjusted net savings per capita
+    $326.62 (2015)
+    Adolescent birth rate in women aged 10-19 years
+    37.15 (2016)
+    Adolescent birth rate per 1,000 women aged 15-19
+    84.41 births (2016)
+    Adult literacy rate, population 15+ years, female (%)
+    58.31% (2015)
+    Adult literacy rate, population 15+ years, female (%)
+    58.31% (2015)
+    Adult literacy rate, population 15+ years, male (%)
+    64.64% (2015)
+    Age dependency ratio
+    50.3% (2017)
+    Age-standardized death rate from cardiovascular diseases, per 100,000 individuals
+    313.8 (2016)
+    Agricultural area per capita
+    0.06 hectares (2013)
+    Agriculture orientation index for government expenditures
+    0.37 (2015)
+    Agriculture value added per worker
+    $990.66 (2017)
+    Aid received per capita
+    $17.92 (2019)
+    Air transport, freight (ton-km)
+    61.75 (2017)
+    Alcohol and drug use disorders as a share of total disease burden
+    1.2% (2016)
+    Annual CO2 emissions
+    88.06 million t (2017)
+    Annual greenhouse gas emissions
+    183,300.56 t (2012)
+    Annual growth of GDP per capita
+    6.16% (2017)
+    Annual healthcare expenditure per capita
+    $88.08 (2014)
+    Annual hours worked per worker
+    2,371.81 (2016)
+    Annual share of global CO2 emissions
+    0.24% (2017)
+    Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population
+    1.35% (2016)
+    Anxiety disorder DALYs, age-standardized rate
+    399.43 (2017)
+    Aquaculture production
+    2.2 million t (2016)
+    Arable land needed to produce a fixed quantity of crops (1961 = 1)
+    0.24 (2014)
+    Arable land use per person
+    0.05 hectares (2015)
+    Are married women required by law to obey their husbands?
+    0 (2015)
+    Armed forces personnel
+    220,950 (2016)
+    Armed forces personnel (% of total labor force)
+    0.34% (2016)
+    Armed forces personnel as share of total population
+    0.14% (2015)
+    Asthma prevalence
+    2.75% (2017)
+    Automated teller machines (ATMs)
+    7.77 ATMs (2016)
+    Average annual precipitation
+    2,666 mm (2014)
+    Average annual working hours per employed person
+    2,232.35 h (2017)
+    Average monthly precipitation
+    14.86 mm (2014)
+    Average per capita supply of pulses
+    6.57 kg (2013)
+    Banana production
+    810,347 t (2018)
+    Banana yields
+    164,963 t (2018)
+    Barley production
+    244 t (2018)
+    Barley yields
+    8,215 t (2018)
+    Bean production
+    134,860 t (2018)
+    Bean yields
+    16,182 t (2018)
+    Beef and buffalo meat consumption per person
+    1.28 kilograms (2013)
+    Beef production
+    205,684 t (2018)
+    Beer consumption per person
+    0 litres (2013)
+    Bipolar disorder DALYs, age-standardized rate
+    116.45 (2017)
+    Bribery incidence of firms
+    47.7% (2013)
+    Broadband subscriptions per 100 people
+    4.43 (2017)
+    Burden of disease
+    33,089.66 (2017)
+    CO2 emissions embedded in global trade
+    22.78 million t (2016)
+    CO2 emissions embedded in trade
+    26.72% (2016)
+    CO2 emissions per capita
+    0.53 t (2017)
+    Cancer incidence
+    100.2 (2017)
+    Carbon emission intensity of economies
+    0.15 kg (2014)
+    Cattle meat per animal
+    71.3 kg (2018)
+    Central government expenditure as share of GDP
+    9.42% (2016)
+    Cereal production
+    42.03 million t (2018)
+    Cereal yield
+    47,907 t (2018)
+    Chicken meat production
+    199,357 t (2018)
+    Chicken meat yield per animal
+    7,000 kg (2018)
+    Child dependency ratio – the ratio between under-19-year-olds and 20-to-69-year-olds
+    68.77 (2015)
+    Child mortality (UN (from 1950))
+    3.65% (2015)
+    Child mortality (Long-run data; Gapminder & UN IGME)
+    34.2% (2016)
+    Child mortality by income level of country
+    3.24% (2017)
+    Child mortality rate (IHME, GBD)
+    3.43% (2017)
+    Child mortality rate (UN IGME (1960 to 2017))
+    3.24% (2017)
+    Child mortality rate (With SDG Target)
+    3.24 (2017)
+    Children born per woman
+    2.02 (2019)
+    Children living with HIV
+    500 (2017)
+    Children per woman (UN; 1950 to 2015)
+    2.13 (2015)
+    Coal consumption
+    2.13 TWh (2018)
+    Coal consumption per capita
+    0.05 MWh (2015)
+    Coal production per capita over the long-term
+    35.19 MWh (2014)
+    Coefficient of Variation (CV) in per capita caloric intake
+    0.26 (2014)
+    Commercial bank branches
+    8.44 (2016)
+    Completeness of birth registration
+    20.2% (2014)
+    Completion rate of lower secondary education
+    67.64% (2013)
+    Condom use among men who have sex with men
+    45.8% (2016)
+    Consumption of Ozone-Depleting Substances
+    65 tonnes (2013)
+    Consumption-based CO2 emissions
+    109.63 million t (2016)
+    Consumption-based CO2 emissions per capita
+    0.67 t (2016)
+    Contraceptive prevalence, any methods (% of women ages 15-49)
+    62.4% (2014)
+    Corruption Perception Index
+    26 (2018)
+    Country Programmable Aid (CPA) received
+    $3.01 billion (2019)
+    Coverage by protected areas of important sites for mountain biodiversity
+    0% (2018)
+    Coverage of pregnant women receiving antiretroviral drugs (ARV) for preventing mother-to-child transmission (MTCT)
+    17.31% (2016)
+    Crude birth rate
+    19.29 (2015)
+    Crude death rate: the share of the population that dies per year
+    0.53% (2015)
+    Cumulative CO2 emissions
+    1.36 billion t (2017)
+    DALY rates from communicable, neonatal, maternal & nutritional diseases
+    9,453.33 (2017)
+    DALY rates from injuries
+    2,488.61 (2017)
+    DALY rates from non-communicable diseases (NCDs)
+    21,147.73 (2017)
+    DALYs (Disability-Adjusted Life Years) from mental and neurodevelopmental disorders
+    1,788 (2016)
+    DALYs (Disability-Adjusted Life Years) rate from alcohol and drug use disorders
+    321.16 (2016)
+    DALYs from mental health and substance use disorders
+    2.63 million (2017)
+    DALYs rate from attention deficit/hyperactivity disorder (ADHD)
+    6.63 (2017)
+    DALYs rate from autistic spectrum disorders
+    52.58 (2017)
+    Daily meat consumption per person
+    4.11 g (2013)
+    Daily per capita caloric supply
+    2,450 kcal (2013)
+    Daily per capita fat supply
+    33.95 g (2017)
+    Daily per capita protein supply
+    60.28 g (2017)
+    Daily per capita supply of calories
+    2,450 kcal (2013)
+    Daily supply of calories
+    2,596 kcal (2017)
+    Data deprivation: Number of poverty surveys per decade available via the World Bank
+    2 (2014)
+    Death rate attributed to an unsafe water source
+    25.29 (2017)
+    Death rate due to road traffic injuries
+    13.6 (2013)
+    Death rate due to tuberculosis
+    45 (2015)
+    Death rate from Alzheimer & other dementia
+    23 (2017)
+    Death rate from HIV/AIDS
+    0.41 (2017)
+    Death rate from air pollution (per 100,000)
+    229.3 (2015)
+    Death rate from ambient particulate air pollution
+    41.49 (2017)
+    Death rate from amphetamine overdoses
+    0.07 (2017)
+    Death rate from cancer
+    83.09 (2017)
+    Death rate from cardiovascular disease
+    298 (2017)
+    Death rate from diarrheal diseases
+    30.02 (2017)
+    Death rate from drowning
+    9.53 (2017)
+    Death rate from fires and burns
+    1.28 (2017)
+    Death rate from malnutrition
+    3.39 (2017)
+    Death rate from natural disasters
+    0.1 (2017)
+    Death rate from neonatal preterm birth complication
+    85 (2017)
+    Death rate from obesity
+    30.97 (2017)
+    Death rate from opioid overdoses
+    1.1 (2017)
+    Death rate from road accidents
+    8.21 (2017)
+    Death rate from smoking
+    80.07 (2017)
+    Death rate from suicides (IHME (1990 to 2016))
+    6.03 (2017)
+    Death rate from tuberculosis
+    10.63 (2017)
+    Death rate from unintentional poisoning
+    0.36 (2017)
+    Death rate from unsafe sanitation
+    17.67 (2017)
+    Death rate from venomous animal contact
+    0.31 (2017)
+    Death rates from air pollution
+    108.5 (2017)
+    Death rates from alcohol and drug use disorders
+    1.23 (2016)
+    Death rates from alcohol use disorders
+    0.18 (2017)
+    Death rates from cocaine overdoses
+    0.06 (2017)
+    Death rates from conflict and terrorism
+    0.08 (2017)
+    Death rates from drug use disorders
+    2.55 (2017)
+    Death rates from eating disorders
+    <0.01 (2017)
+    Death rates from indoor air pollution
+    61.99 (2017)
+    Death rates from mental health and substance use disorders
+    <0.01 (2017)
+    Death rates from natural disasters
+    0.1 (2017)
+    Death rates from pneumonia in children under 5
+    135 (2017)
+    Death rates from substance use disorders
+    2.73 (2017)
+    Death rates from unsafe sanitation
+    17.67 (2017)
+    Death rates from unsafe water sources
+    25.29 (2017)
+    Deaths from alcohol and drug use disorders
+    808 (2016)
+    Deaths from alcohol use disorders
+    258 (2017)
+    Deaths from conflict and terrorism (IHME, GBD (1990 to 2016))
+    119 (2017)
+    Deaths from eating disorders
+    <1 (2017)
+    Deaths from mental health and substance use disorders
+    <1 (2017)
+    Deaths from natural disasters as a share of total deaths
+    0.02% (2017)
+    Deaths from terrorism
+    25 (2017)
+    Demand for family planning satisfied by modern methods
+    72.6% (2014)
+    Dentistry personnel per 1,000 population
+    0.49 (2017)
+    Depressive disorder DALYs, age-standardized rate
+    694.48 (2017)
+    Depth of the food deficit in kilocalories per person per day
+    116 kilocalories (2016)
+    Development assistance as share of government expense
+    12% (2016)
+    Differences in life expectancy are more regional than national
+    72.49 years (2016)
+    Disability Adjusted Life Years lost due to communicable diseases per 100,000
+    12,774 (2012)
+    Disability-adjusted life years (DALYs) from particulate pollution
+    2,650.88 (2016)
+    Disability-adjusted life years: Major depressive disorders, age-standardized rate
+    619.04 (2016)
+    Disability-adjusted life years: Mental and substance use disorders, age-standardized rate
+    1,693.67 (2017)
+    Disease burden rates from cancers
+    2,085.98 (2017)
+    Domestic food price volatility index
+    4.5 (2014)
+    Drowning death rates – children under the age of 5
+    33.93 (2017)
+    Drug use disorder DALYs, age-standardized rate
+    235.56 (2017)
+    Duration of compulsory education
+    5 years (2014)
+    Duration of pre-primary education
+    3 years (2016)
+    Eating disorder DALYs, age-standardized rate
+    28.79 (2017)
+    Economic Complexity Index (ECI) by country ranking
+    -1.18 (2013)
+    Economic Freedom Score
+    6.32 (2016)
+    Egg production
+    709,244 t (2018)
+    Eggs per bird
+    27,554 kg (2018)
+    Employment in agriculture (% of total employment)
+    39.07% (2017)
+    Energy imports (% energy use)
+    16.84% (2014)
+    Energy imports and exports
+    16.84% (2014)
+    Energy intensity of economies
+    3.14 kWh/$ (2015)
+    Energy use per capita
+    222 kWh (2014)
+    Estimated TB-related deaths among people living with HIV
+    176 (2016)
+    Expected years of living with disability or disease burden
+    9.85 (2016)
+    Exports of goods and services by income group
+    $27.57 billion (2017)
+    Exports within Western Europe (%GDP)
+    9.83% (2014)
+    Fat supply by region
+    29.93 g (2013)
+    Female employment-to-population ratio
+    33.92 (2017)
+    Female employment-to-population ratio
+    30.71% (2017)
+    Female labor force participation rates
+    33.04% (2017)
+    Fertility rate over the long-term
+    2.02 (2019)
+    Fertilizer application rates over the long-run
+    279.22 kg/ha (2014)
+    Fertilizer use per hectare of cropland
+    297.74 kilograms (2015)
+    Fish and seafood consumption per capita
+    24.31 kg (2017)
+    Fixed broadband subscriptions (per 100 people)
+    4.43 (2017)
+    Fixed telephone subscriptions
+    0.43 (2017)
+    Food aid received
+    $37.51 million (2016)
+    Foreign direct investment, net inflows (% of GDP)
+    1.44% (2014)
+    Foreign direct investment, net inflows as share of GDP
+    0.86% (2017)
+    Foreign direct investment, net outflows as share of GDP
+    0.06% (2017)
+    Forest area (% of land area)
+    10.98% (2015)
+    Forest area as share of land area
+    10.98% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    14,290 km² (2015)
+    Forest area net change rate
+    -0.18% (2015)
+    Fossil-fuel subsidies as a share of GDP
+    1.19% (2015)
+    Fossil-fuel subsidies
+    $2.48 (2015)
+    Fossil-fuel subsidies per capita
+    $15.52 (2015)
+    Freshwater withdrawals as a share of internal resources
+    34.16% (2012)
+    Fruit consumption per capita
+    27.62 kg (2017)
+    Fuel exports (% of merchandise exports)
+    0.56% (2015)
+    Future life expectancy projections
+    73.42 (2019)
+    Future population projections by country (IIASA (1970 to 2100))
+    157.09 million (2015)
+    GDP in British pounds
+    £105.07 billion (2014)
+    GDP per capita (Penn World Tables (1950 to 2014))
+    3,436.05 (2017)
+    GDP per capita (World Bank (1990 to 2017))
+    $3,524 (2017)
+    GDP per capita (Maddison – multiple benchmark)
+    $3,250 (2016)
+    GDP per capita (Maddison – single benchmark)
+    $3,604 (2016)
+    GDP per capita
+    $3,250 (2016)
+    GDP per capita in US$ (World Bank (1960 to 2017))
+    $1,093.05 (2017)
+    GDP per person employed (constant 2011 PPP $)
+    $9,104.71 (2017)
+    GDP price levels relative to the US
+    0.39 GDP (2017)
+    Gap to reach the target share of people receiving antiretroviral therapy
+    65% (2016)
+    Gender Inequality Index from the Human Development Report
+    0.52 (2015)
+    Gender gap in pre-primary education: Share of students in pre-primary education who are female
+    48.99% (2013)
+    Gender gap in primary education: Share of enrolled female primary education students
+    50.4% (2016)
+    Gender parity index (GPI): Literacy rate of young people (ages 15-24)
+    1.03 GPI (2016)
+    Global Hunger Index
+    26.1 (2018)
+    Global capture fishery production
+    1.67 million (2016)
+    Global meat demand if everyone ate like the average citizen of...
+    29.52 million tonnes (2013)
+    Government expenditure on education (% of GDP)
+    2.5% (2016)
+    Government expenditure on secondary education as share of GDP
+    0.93% (2011)
+    Government expenditure on secondary education by country, 1974-2014
+    12.13% (2011)
+    Government expenditure on tertiary education as share of GDP
+    0.23% (2011)
+    Government expenditure on tertiary education by country
+    0.23% (2011)
+    Government expenditure per student, tertiary (% of GDP per capita)
+    25.21% (2016)
+    Government revenue as a share of GDP
+    10.21% (2016)
+    Government spending
+    17.99% (2011)
+    Greenhouse gas emissions per capita
+    1.18 t (2012)
+    Greenhouse gas emissions per capita per day
+    3.22 kg (2012)
+    Gross Domestic Product (World Bank (1960 to 2017))
+    $179.99 billion (2017)
+    Gross enrollment ratio in pre-primary education
+    31.81% (2013)
+    Gross enrollment ratio in primary education
+    111.88% (2011)
+    Gross enrollment ratio in secondary education
+    58.31% (2013)
+    Gross enrollment ratio in tertiary education
+    13.44% (2014)
+    Gross enrolment ratio, primary, gender parity index (GPI)
+    1.06 GPI (2011)
+    Gross enrolment ratio, secondary education, gender parity index (GPI)
+    1.08 GPI (2013)
+    Gross enrolment ratio, tertiary, gender parity index (GPI)
+    0.74 GPI (2014)
+    Gross official development assistance (ODA) for medical research and basic heath sectors
+    $222.42 billion (2015)
+    Gross overseas development assistance (ODA) from all donors for scholarships
+    $13.79 billion (2015)
+    Groundnut yield
+    17,564 t (2018)
+    Growth rate of real GDP per employed person
+    5.2% (2018)
+    HIV expenditure on prevention and treatment
+    $12.76 million (2015)
+    HadCRUT Surface Temperature Anomaly
+    0.24 ℃ (2017)
+    Has country already reached SDG target for access to sanitation?
+    60.6% (2015)
+    Has country already reached SDG target on child mortality?
+    3.24% (2017)
+    Has country already reached SDG target on clean cooking fuels?
+    17.72% (2016)
+    Has country already reached SDG target on electricity access?
+    75.92% (2016)
+    Has country already reached SDG target on improved water access?
+    86.9% (2015)
+    Has country already reached SDG target on maternal mortality?
+    176 (2015)
+    Has country already reached SDG target on neonatal mortality?
+    18.4 (2017)
+    Healthcare Access and Quality Index
+    51.7 (2015)
+    Healthcare expenditure
+    2.82% (2014)
+    Hepatitis B incidence rate
+    1,519 (2017)
+    Heptatitis death rate
+    2.04 (2017)
+    Historical Index of Human Development
+    0.33 (2015)
+    Homicide rate (World Bank (1995 to 2016))
+    2.5 (2015)
+    Homicide rate (IHME (1990 to 2017))
+    1.6 (2017)
+    Homicide rates from firearms (IHME, GBD (1990 to 2017))
+    0.07 (2017)
+    Human Development Index
+    0.61 (2017)
+    Human Rights Scores
+    -1.42 (2017)
+    Human Rights Violations
+    8 (2014)
+    Humanitarian and food aid received
+    $37.51 million (2016)
+    Hydropower generation
+    0.89 TWh (2018)
+    Immunization against diphtheria, tetanus, and pertussis
+    97% (2017)
+    Imported or exported CO2 emissions per capita
+    0.15 t (2016)
+    Imports of goods and services (constant 2010 US $)
+    $36.2 billion (2017)
+    Incidence of HIV per 1,000 uninfected adults
+    0.02 (2017)
+    Incidence of HIV: The share of new infections among the previously uninfected population (ages 15-49)
+    0.01% (2017)
+    Incidence of venomous animal contact
+    957.07 (2017)
+    Industry employment (% of total employment)
+    19.09% (2017)
+    Infant mortality rate (UN IGME (1960 to 2017))
+    26.9% (2017)
+    Infant mortality rate
+    3.19% (2017)
+    Infectious disease death rates
+    173.33 (2016)
+    Informal employment
+    91.3% (2017)
+    Insecticide use
+    2,184.38 t (2017)
+    Internally displaced persons from natural disasters
+    946,000 (2017)
+    International finance received for clean energy
+    $336.46 (2016)
+    International migrant stock
+    1.42 million (2015)
+    International tourism: Number of arrivals
+    125,000 (2014)
+    Is the chief executive and legislature appointed through popular elections?
+    0.93 (2017)
+    Is voting compulsory in national elections?
+    0 (2017)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    1,238.39 persons (2015)
+    Lettuce yields
+    54,215 t (2018)
+    Life expectancy
+    72.6 years (2019)
+    Life expectancy
+    72.16 (2015)
+    Life expectancy (World Bank data)
+    72.49 years (2016)
+    Life expectancy at age 10
+    65.48 (2015)
+    Literacy rate
+    72.76% (2016)
+    Long-term wheat yields in Europe
+    3.03 tonnes/ha (2014)
+    MDG4.A: Child mortality rate (per 1,000 live births)
+    3.24 (2017)
+    MDG5.A: Maternal mortality ratio (per 100,000 live births)
+    176 (2015)
+    Maize production
+    3.29 million t (2018)
+    Maize yields
+    82,104 t (2018)
+    Malaria death rates (IHME (1990 to 2017))
+    2.27 (2017)
+    Malaria incidence
+    10 (2017)
+    Malaria incidence (per 1,000 population at risk)
+    0.8 (2015)
+    Malaria incidence per 1,000 population
+    0.8 (2015)
+    Male-to-female ratio of suicide rates
+    1.09 (2017)
+    Maternal Mortality Ratio (Gapminder & World Bank (from 1800))
+    176 (2015)
+    Maternal mortality ratio (World Bank (from 1990))
+    176 (2015)
+    Maternal mortality ratio (With SDG Target)
+    176 (2015)
+    Mean body mass index (BMI) in men
+    21.4 (2016)
+    Mean body mass index (BMI) in women
+    22.05 (2016)
+    Mean years of schooling
+    5.8 years (2017)
+    Meat production
+    705,745 t (2018)
+    Meat supply per person
+    4.04 kg (2017)
+    Median Age
+    25.6 (2015)
+    Medical doctors per 1,000 people
+    0.47 (2015)
+    Mental and substance use disorders as a share of total disease burden
+    5.71% (2017)
+    Mental health disorders as a share of total disease burden
+    6.25% (2016)
+    Military expenditure (% of GDP)
+    1.38% (2017)
+    Military expenditure as a share of GDP
+    1.44% (2016)
+    Military expenditure as share of GDP
+    1.38% (2017)
+    Military expenditure per capita
+    $9.94 (2012)
+    Military expenditure per capita, constant 2015 US$
+    $17.62 (2015)
+    Military expenditure, constant 2015 US$
+    $3 billion (2016)
+    Military personnel
+    157,000 (2012)
+    Military personnel as share of the population
+    0.1% (2012)
+    Milk per animal
+    579 kg (2018)
+    Milk production
+    2.02 million t (2018)
+    Milk production
+    2.02 million t (2018)
+    Mobile cellular subscriptions
+    88.12 (2017)
+    Mobile cellular subscriptions by country
+    145.11 million (2017)
+    Mortality caused by road traffic injury (per 100,000 people)
+    12.8 (2015)
+    Mortality from non-communicable diseases
+    21.6% (2016)
+    Mortality rate attributable to unsafe water, sanitation, and hygiene (WASH)
+    35.96 (2016)
+    National GDP
+    565.81 billion (2017)
+    Natural disaster deaths by country
+    163 (2017)
+    Natural gas consumption
+    24 TWh (2018)
+    Natural gas consumption per capita
+    1.74 MWh (2015)
+    Natural gas production
+    255.41 TWh (2014)
+    Natural population growth (per 1000 population) (UN (1950 to 2015))
+    1.4% (2015)
+    Neonatal mortality rate (UN IGME (1960 to 2017))
+    18.4% (2017)
+    Neonatal mortality rate (With SDG Target)
+    18.4 (2017)
+    Net attendance rate of primary school
+    83.09% (2011)
+    Net enrolment rate, pre-primary, both sexes (%)
+    22.83% (2011)
+    Net enrolment rate, secondary, gender parity index (GPI)
+    1.09 GPI (2013)
+    Net migration
+    -2.35 million (2017)
+    Net official development assistance and official aid received
+    $2.49 billion (2016)
+    New HIV infections averted from prevention of mother-to-child transmission (PMTCT)
+    6 (2016)
+    New business density (new registrations per 1,000 people ages 15-64)
+    0.09 new registrations (2012)
+    New tetanus infections per 100,000 people
+    1.06 (2017)
+    Nitrogen fertilizer use per hectare of cropland
+    144.45 kg (2017)
+    Nuclear energy, share of electricity production
+    0% (2014)
+    Number of Asian elephants
+    268 (2017)
+    Number of HIV deaths averted from antiretroviral therapy (ART)
+    149 (2016)
+    Number of accessions of plant genetic resources secured in conservation facilities
+    33,081 (2018)
+    Number of cattle
+    24.09 million (2018)
+    Number of child deaths
+    99,608 (2017)
+    Number of children annually orphaned from AIDS deaths
+    7,884 (2016)
+    Number of children newly infected with HIV
+    100 (2017)
+    Number of children per who died before they were five years old per woman
+    0.07 (2016)
+    Number of confirmed tetanus cases (WHO 2017)
+    559 cases (2015)
+    Number of deaths from air pollution
+    122,734 (2017)
+    Number of deaths from air pollution
+    122,734 (2017)
+    Number of deaths from drug use disorders
+    3,216 (2017)
+    Number of deaths from earthquakes
+    0 (2017)
+    Number of deaths from indoor air pollution
+    70,345 (2017)
+    Number of deaths from natural disasters
+    163 (2017)
+    Number of deaths from outdoor air pollution
+    56,068 (2017)
+    Number of deaths from pneumonia in children under 5
+    19,678 (2017)
+    Number of deaths from road injuries
+    11,798 (2017)
+    Number of deaths from tetanus
+    1,082 (2017)
+    Number of deaths from tuberculosis
+    13,162 (2017)
+    Number of executions
+    10 (2016)
+    Number of homicide deaths
+    2,463 (2017)
+    Number of infant deaths
+    82,240 (2017)
+    Number of internet users by country
+    29.73 million (2016)
+    Number of malaria cases per 100,000 individuals
+    394.32 (2014)
+    Number of maternal deaths
+    5,500 (2015)
+    Number of mobile cellular subscriptions by country
+    116.55 million (2013)
+    Number of neonatal deaths
+    56,341 (2017)
+    Number of neonatal deaths
+    68,140 (2017)
+    Number of new HIV infections
+    1,700 (2017)
+    Number of new HIV infections per 1,000 uninfected population, aged 15-49
+    0.01 (2017)
+    Number of new cases of HIV
+    956 (2017)
+    Number of new neonatal tetanus cases per million
+    0.68 (2016)
+    Number of non-fatal injuries from terrorist attacks
+    73 (2017)
+    Number of people living with HIV
+    9,794 (2017)
+    Number of people requiring interventions against neglected tropical diseases (NTDs)
+    49.84 million (2015)
+    Number of people requiring interventions for neglected tropical diseases
+    49.84 million (2015)
+    Number of people using at least basic sanitation facilities
+    75.55 million (2015)
+    Number of people using safely managed drinking water
+    89.63 million (2015)
+    Number of people who are moderately or severely food insecure
+    50.3 (2017)
+    Number of people who are severely food insecure
+    16.8 (2017)
+    Number of people who are undernourished
+    24.8 million (2016)
+    Number of people with access to at least basic drinking water
+    156.69 million (2015)
+    Number of people with access to electricity
+    123.71 million (2016)
+    Number of people with alcohol or drug use disorders
+    3.34 million (2016)
+    Number of people with an eating disorder
+    231,127.52 (2017)
+    Number of people with anxiety disorders
+    6.57 million (2017)
+    Number of people with bipolar disorder
+    902,890.97 (2017)
+    Number of people with cancer
+    327,303.34 (2017)
+    Number of people with depression by country
+    6.03 million (2017)
+    Number of people with drug use disorders
+    817,537.6 (2017)
+    Number of people with mental health disorders
+    20.08 million (2016)
+    Number of people with schizophrenia
+    380,706 (2017)
+    Number of people without access to clean fuels for cooking
+    134.08 million (2016)
+    Number of people without access to electricity
+    39.24 million (2016)
+    Number of people without access to improved sanitation
+    63.51 million (2015)
+    Number of people without access to safe drinking water
+    71.57 million (2015)
+    Number of people without access to safe sanitation
+    161.2 million (2015)
+    Number of poultry birds
+    338 million (2018)
+    Number of preterm births
+    603,698 (2014)
+    Number of suicide deaths from firearms
+    542 (2017)
+    Number of terrorist attacks
+    41 (2017)
+    Number of tourist departures per 1000 people
+    9 (2013)
+    Number of under-five deaths
+    99,608 (2017)
+    Number with an alcohol use disorder
+    2.28 million (2017)
+    Nurses and midwives per 1,000 people
+    0.27 (2015)
+    Official entrance age to compulsory education
+    6 years (2014)
+    Official entrance age to pre-primary education
+    3 years (2016)
+    Oil consumption
+    9 TWh (2018)
+    Oil consumption per capita
+    0.45 MWh (2015)
+    Oil production
+    2.82 TWh (2014)
+    Old-age dependency ratio
+    7.66% (2017)
+    Orange production
+    3,315 t (2018)
+    Orange yields
+    79,449 t (2018)
+    Ores and metals exports (% of merchandise exports)
+    0.17% (2015)
+    Out-of-pocket expenditure per capita on healthcare
+    $63.22 (2015)
+    Outdoor air pollution death rate
+    50 (2017)
+    Ozone (O₃) concentration
+    74 ppb (2015)
+    Particulate matter air pollution
+    101.02 μg (2016)
+    Patent applications per million residents
+    <1 (2015)
+    Pea production
+    17,429 t (2018)
+    Pea yields
+    11,145 t (2018)
+    People practicing open defecation in urban areas (% of urban population)
+    0% (2015)
+    People practicing open defection in rural areas (% of rural population)
+    0.16% (2015)
+    Per capita alcohol consumption, kilograms per year
+    0.02 kilograms (2013)
+    Per capita egg consumption
+    2.85 kg (2017)
+    Per capita electricity consumption
+    310.39 kWh (2014)
+    Per capita electricity consumption
+    310.39 kWh (2014)
+    Per capita milk consumption
+    18.1 kg (2017)
+    Percentage of children underweight (low weight for age)
+    32.6% (2014)
+    Percentage of children with diarrhea, who received oral rehydration therapy
+    77% (2014)
+    Percentage of firms with a top female manager
+    4.8% (2013)
+    Percentage of graduates from Science and Technology programmes in tertiary education who are female (%)
+    36.5% (2014)
+    Percentage of individuals using the internet by country
+    9.6% (2014)
+    Percentage of teachers in lower secondary education who are qualified (%)
+    98.22% (2013)
+    Percentage of teachers in secondary education who are qualified (%)
+    98.19% (2013)
+    Percentage of teachers in upper secondary education who are qualified (%)
+    98.16% (2013)
+    Personal remittances as a share of GDP
+    5.41% (2017)
+    Pesticide use
+    15,144 t (2017)
+    Pesticide use per hectare of cropland
+    1.76 kg (2017)
+    Pharmaceutical personnel per 1,000 population
+    1.56 (2017)
+    Phosphate fertilizer use per hectare of cropland
+    74.78 kg (2017)
+    Political Regime
+    5 (2011)
+    Political Regime
+    1 (2015)
+    Political Regime – distinction democracies and full democracies
+    1 (2015)
+    Political Regimes
+    1 (2018)
+    Political regimes over time
+    5 (2011)
+    Population (Gapminder & UN (1800 to 2019))
+    163.05 million (2019)
+    Population
+    163.05 million (2019)
+    Population density
+    1,271.22 (2015)
+    Population density
+    1,265 (2017)
+    Population in urban agglomerations of more than 1 million
+    23.61 million (2017)
+    Population under five years old
+    15.25 million (2015)
+    Potash fertilizer use per hectare of cropland
+    55.13 kg (2017)
+    Potato production
+    9.74 million t (2018)
+    Potato yields
+    204,106 t (2018)
+    Poultry meat per animal
+    0.75 kg (2018)
+    Poultry production
+    254,433 t (2018)
+    Poverty gap index at 1.90 int-$ per day
+    2.7% (2016)
+    Power outages in firms in a typical month
+    64.5 (2013)
+    Prevalence of anemia in children
+    40.3% (2016)
+    Prevalence of anemia in pregnant women
+    45.7% (2016)
+    Prevalence of anemia in women of reproductive age
+    39.9% (2016)
+    Prevalence of autistic spectrum disorder
+    0.35% (2017)
+    Prevalence of daily smoking in populations aged 10 and older
+    20.73% (2016)
+    Prevalence of obesity in adult females
+    4.9% (2014)
+    Prevalence of obesity in adult males
+    1.8% (2014)
+    Prevalence of tobacco use among adults
+    22.8% (2016)
+    Primary completion rate
+    73.53% (2011)
+    Primary completion rate, gender parity index (GPI)
+    1.14 GPI (2011)
+    Primary energy consumption
+    36 TWh (2018)
+    Primary energy consumption by world region
+    36 TWh (2018)
+    Primary school completion rate
+    98.07% (2015)
+    Primary schooling: Adjusted net attendance rate
+    87.08% (2011)
+    Private health expenditure per person
+    $65.45 (2015)
+    Productivity per hour worked
+    3.97 $/h (2017)
+    Projected female population without education
+    16,728.16 (2015)
+    Projected share of the population in extreme poverty
+    2.55% (2019)
+    Projections of the share of the population aged 15+ educated to degree level by country
+    13.23% (2015)
+    Proportion of children under 5 years of age who are developmentally on track
+    63.9% (2013)
+    Proportion of forest area within legally established protected areas
+    18.96% (2015)
+    Proportion of important sites for freshwater biodiversity that are covered by protected areas
+    20.76% (2018)
+    Proportion of labor force who are women
+    29.14% (2017)
+    Proportion of population with basic handwashing facilities on premises
+    34.81% (2017)
+    Proportion of seats held by women in national parliaments
+    20.3% (2017)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    44.83% (2017)
+    Proportion of total manufacturing value added from medium and high-tech industry
+    9.76% (2016)
+    Proportion of women in ministerial positions
+    6.3% (2016)
+    Proportion of women in senior and middle management positions
+    11.5% (2017)
+    Proportion of women subjected to physical and/or sexual violence in the last 12 months
+    50.7% (2011)
+    Proportion of women who make their own informed health care decisions
+    14.1% (2014)
+    Proportion of youth (aged 15–24 years) not in education, employment or training
+    27.39% (2017)
+    Protein supply by region
+    55.84 g (2013)
+    Public expenditure on healthcare as percent of total healthcare expenditure
+    27.9% (2014)
+    Public expenditure on healthcare by country income groups
+    27.9% (2014)
+    Public health expenditure (% GDP)
+    0.79% (2014)
+    Pump price for diesel fuel (US$ per liter)
+    $0.84 (2016)
+    Pump price for gasoline (US$ per liter)
+    $1.12 (2016)
+    Pupil-teacher ratio for primary education
+    40.21 (2011)
+    Railways, passengers carried (passenger-km)
+    7,305 (2014)
+    Rank in the Economic Complexity Index
+    100 (2013)
+    Rapeseed production
+    351,537 t (2018)
+    Rapeseed yields
+    11,432 t (2018)
+    Rate of natural population increase (UN)
+    1.4% (2015)
+    Ratio of female to male labor force participation rates (%)
+    41.4% (2017)
+    Real GDP per capita (Penn World Tables (1950 to 2014))
+    $3,436.05 (2017)
+    Red List Index
+    0.76 (2019)
+    Refugee population by country or territory of asylum
+    932,209 (2017)
+    Refugee population by country or territory of origin
+    16,755 (2017)
+    Remittance costs as a proportion of the amount remitted
+    4.9% (2018)
+    Renewable internal freshwater resources per capita (cubic meters)
+    658.7 m³ (2014)
+    Reported cases of measles
+    3,567 (2019)
+    Reported paralytic polio cases (per 1 million people)
+    0 (2015)
+    Respiratory disease death rate
+    76.12 (2017)
+    Rice production
+    56.42 million t (2018)
+    Rice yields
+    33,108 t (2018)
+    Risk of catastrophic expenditure for surgical care
+    64.2% (2017)
+    Risk of impoverishing expenditure for surgical care (% of people at risk)
+    79.1% (2014)
+    Road traffic deaths
+    11,798 (2017)
+    Schizophrenia DALYs, age-standardized rate
+    157.89 (2017)
+    School life expectancy at the pre-primary education level
+    0.95 years (2013)
+    School life expectancy, from primary to tertiary education
+    9.86 years (2011)
+    School life expectancy, primary, gender parity index (GPI)
+    1.06 GPI (2011)
+    Scientific and technical journal articles
+    2,546 (2016)
+    Scientific and technical journal publications per million residents
+    13 (2013)
+    Secure Internet servers
+    63 (2017)
+    Self-reported Life Satisfaction
+    4.5 (2018)
+    Sesame seed production
+    34,859 t (2018)
+    Sex ratio at birth
+    1 (2017)
+    Sex ratio at birth (Chao et al. (2019))
+    105.54 (2017)
+    Sex ratio of five-year-olds
+    104 (2015)
+    Share enrolled in private institutions at the pre-primary education level
+    35.57% (2013)
+    Share enrolled in private institutions at the primary education level
+    41.96% (2011)
+    Share enrolled in private institutions at the tertiary education level
+    43.03% (2014)
+    Share of Out-of-Pocket Expenditure on Healthcare
+    66.98% (2014)
+    Share of adult men overweight or obese
+    14.1% (2014)
+    Share of adult women overweight or obese
+    20.4% (2014)
+    Share of adults that are obese
+    3.6% (2016)
+    Share of adults that are overweight or obese
+    19% (2016)
+    Share of adults who have the right to vote
+    100% (2017)
+    Share of adults with account at a financial institution
+    29.14% (2014)
+    Share of births attended by skilled health staff
+    49.8% (2016)
+    Share of cereals allocated to animal feed
+    10.17% (2017)
+    Share of cereals allocated to human food
+    82.46% (2017)
+    Share of cereals allocated to industrial uses
+    7.37% (2017)
+    Share of children aged 5-17 years engaged in labour
+    5.9% (2013)
+    Share of children in employment
+    5% (2013)
+    Share of children in employment
+    5% (2013)
+    Share of children who are overweight
+    1.58% (2014)
+    Share of children who are overweight
+    4.69% (2016)
+    Share of children who are stunted
+    36.1% (2014)
+    Share of children who are stunted
+    37.26% (2016)
+    Share of children who are wasted
+    14.3% (2014)
+    Share of children who are wasted
+    12.62% (2016)
+    Share of children who receive key vaccines in target populations
+    94.27% (2016)
+    Share of children with a respiratory infection taken to a healthcare provider
+    42% (2014)
+    Share of children with symptoms of pneumonia who are taken to a health provider
+    42% (2014)
+    Share of children younger than 5 who are underweight for their age
+    32.6% (2014)
+    Share of children younger than 5 who suffer from stunting
+    36.1% (2014)
+    Share of deaths attributed to obesity
+    4.36% (2017)
+    Share of deaths from air pollution
+    13.83% (2017)
+    Share of deaths from heart disease
+    36.13% (2017)
+    Share of deaths from indoor air pollution
+    7.93% (2017)
+    Share of deaths from outdoor air pollution
+    6.32% (2017)
+    Share of deaths from suicide
+    1.05% (2017)
+    Share of deaths from unsafe sanitation
+    2% (2017)
+    Share of deaths from unsafe water sources
+    2.86% (2017)
+    Share of domestic budget funded by domestic taxes
+    8.77% (2016)
+    Share of education in government expenditure
+    11.42% (2016)
+    Share of electricity production from renewable sources
+    1.32% (2014)
+    Share of employee compensation in public spending
+    25.15% (2016)
+    Share of final energy consumption from renewable sources
+    34.75% (2015)
+    Share of firms with female top managers
+    4.8% (2013)
+    Share of food products in total merchandise exports
+    2.71% (2015)
+    Share of global cumulative CO2 emissions
+    0.09% (2017)
+    Share of government expenditure going to interest payments
+    20.25% (2016)
+    Share of government expenditure spent on education
+    18.12% (2016)
+    Share of government expenditure spent on health
+    5.66% (2014)
+    Share of households consuming iodized salt
+    57.6% (2013)
+    Share of important terrerstrial biodiversity sites that are protected
+    48.02% (2018)
+    Share of land area used for agriculture
+    70.63% (2015)
+    Share of land area used for arable agriculture
+    59.65% (2015)
+    Share of land used for permanent meadows and pastures
+    4.61% (2017)
+    Share of manufactures in total merchandise exports
+    95.81% (2015)
+    Share of marine territorial waters that are protected
+    5.36% (2017)
+    Share of married women ages 15-49 years whose need for family planning is satisfied
+    72.6% (2014)
+    Share of men that are obese
+    2.3% (2016)
+    Share of men that are overweight or obese
+    18% (2016)
+    Share of men with raised blood pressure
+    24.53% (2015)
+    Share of migrants among the population
+    0.88% (2015)
+    Share of one-year-olds vaccinated against Haemophilus influenzae type B (Hib3)
+    90% (2018)
+    Share of one-year-olds vaccinated against diphtheria, pertussis, and tetanus (DTP3)
+    97% (2017)
+    Share of one-year-olds vaccinated against hepatitis B
+    97% (2017)
+    Share of one-year-olds vaccinated against measles (MCV1)
+    94% (2017)
+    Share of one-year-olds vaccinated against polio (Pol3)
+    94% (2015)
+    Share of one-year-olds vaccinated against tuberculosis (BCG)
+    98% (2015)
+    Share of people living in urban agglomerations of more than 1 million
+    14.34% (2017)
+    Share of people living in urban areas (UN (1960 to 2017))
+    35.86% (2017)
+    Share of people practicing open defecation
+    0.11% (2015)
+    Share of people who are undernourished
+    14.7% (2017)
+    Share of people who smoke every day
+    22.4% (2012)
+    Share of people with HIV who receive antiretroviral therapy
+    19% (2017)
+    Share of population living in extreme poverty by world region (World Bank (1981 to 2015))
+    14.8% (2016)
+    Share of population living in poverty by national poverty lines
+    24.3% (2016)
+    Share of population using at least basic drinking water source
+    97.33% (2015)
+    Share of population using at least basic sanitation facilities
+    46.92% (2015)
+    Share of population with Asperger Syndrome and other autistic spectrum disorders
+    0.63% (2016)
+    Share of population with alcohol use disorders
+    1.46% (2017)
+    Share of population with an alcohol use disorder
+    1.46% (2017)
+    Share of population with an eating disorder
+    0.14% (2017)
+    Share of population with anxiety disorders
+    4.28% (2017)
+    Share of population with attention deficit/hyperactivity disorder (ADHD)
+    0.56% (2017)
+    Share of population with bipolar disorder
+    0.58% (2017)
+    Share of population with cancer
+    0.25% (2017)
+    Share of population with developmental intellectual disability
+    0.4% (2017)
+    Share of population with drug use disorders
+    0.61% (2016)
+    Share of population with drug use disorders
+    0.51% (2017)
+    Share of population with improved sanitation faciltities
+    60.6% (2015)
+    Share of population with mental health and substance use disorders
+    12.46% (2017)
+    Share of population with mental health or development disorder
+    12.97% (2016)
+    Share of population with schizophrenia
+    0.23% (2016)
+    Share of population with schizophrenia
+    0.25% (2017)
+    Share of pregnant women receiving prenatal care
+    63.9% (2014)
+    Share of pregnant women who receive antiretroviral therapy
+    17% (2017)
+    Share of preterm births by country
+    19.15% (2014)
+    Share of primary school teachers who are female
+    53.73% (2011)
+    Share of rural population with access to improved water sources
+    87% (2015)
+    Share of rural population with improved sanitation faciltities
+    62.1% (2015)
+    Share of secondary school teachers who are female
+    20.8% (2013)
+    Share of services in total exports
+    9.85% (2017)
+    Share of small-scale industries with a loan or line of credit
+    30.99% (2013)
+    Share of students studying abroad
+    1.11% (2012)
+    Share of teachers in lower secondary education who are trained
+    59.61% (2013)
+    Share of teachers in primary education who are trained
+    57.73% (2011)
+    Share of teachers in secondary education who are trained
+    58.04% (2013)
+    Share of teachers in tertiary education who are female
+    17.59% (2014)
+    Share of teachers in upper secondary education who are trained
+    56.19% (2013)
+    Share of the labor force employed in agriculture
+    39.07% (2017)
+    Share of the population exposed to air pollution levels above WHO guidelines
+    100% (2016)
+    Share of the population infected with HIV
+    0.1% (2017)
+    Share of the population infected with HIV
+    <0.01% (2017)
+    Share of the population living in extreme poverty (World Bank (1977 to 2015))
+    14.8% (2016)
+    Share of the population living in urban areas
+    37.41% (2019)
+    Share of the population that is female
+    49.57% (2017)
+    Share of the population using safely managed drinking water
+    55.67% (2015)
+    Share of the population using the Internet
+    18.25% (2016)
+    Share of the population with access to electricity
+    75.92% (2016)
+    Share of the population with access to improved drinking water
+    86.9% (2015)
+    Share of the population with alcohol or drug use disorders
+    2.03% (2016)
+    Share of the population with alcohol use disorders
+    1.5% (2016)
+    Share of the population with autism
+    0.22% (2016)
+    Share of the population with depression
+    4.11% (2017)
+    Share of the population with down syndrome
+    0.04% (2017)
+    Share of the population with no formal education, projections by IIASA
+    0.27% (2015)
+    Share of the urban population who live in the largest city
+    32% (2017)
+    Share of urban population living in slums
+    55.1% (2014)
+    Share of urban population with improved sanitation faciltities
+    57.7% (2015)
+    Share of urban population with improved water sources
+    86.5% (2015)
+    Share of women (aged 20-24 years) who were married by age 15
+    22.4% (2014)
+    Share of women (aged 20-24) years who were married by age 18
+    58.6% (2014)
+    Share of women ages 15-49 using modern contraceptive methods
+    54.1% (2014)
+    Share of women among the population living with HIV
+    33.9% (2017)
+    Share of women that are expected to die from pregnancy-related causes
+    0.42% (2015)
+    Share of women that are obese
+    5% (2016)
+    Share of women that are overweight or obese
+    22.2% (2016)
+    Share of women who believe a husband is justified in beating his wife
+    28.3% (2014)
+    Share of women who experienced physical or sexual violence by an intimate partner in the last 12 months
+    50.7% (2011)
+    Share of women with raised blood pressure
+    24.95% (2015)
+    Share of working children who work only
+    58.07% (2013)
+    Share of young women who experienced any form of sexual violence before reaching the age of 18
+    3.5% (2015)
+    Share of youth not in education, employment or training
+    27.39% (2017)
+    Small-scale industries as a share of total industry value added
+    3.99% (2012)
+    Solar energy generation
+    0.3 TWh (2018)
+    Soybean production
+    98,699 t (2018)
+    Soybean yields
+    16,603 t (2018)
+    Specialist surgical workforce (per 100,000 population)
+    3.02 (2014)
+    Spirits consumption per person
+    0 litres (2013)
+    Statistical Capacity Indicator
+    70 (2017)
+    Stroke death rates
+    153 (2017)
+    Stunting by World Bank income group
+    36.1% (2014)
+    Sugar cane production
+    3.64 million t (2018)
+    Sugar cane yields
+    403,608 t (2018)
+    Suicide death rates (World Bank (2000 to 2016))
+    5.9 (2016)
+    Suicide rate (World Bank (2000 to 2016))
+    5.9 (2016)
+    Suicide rate by firearm
+    0.34 (2017)
+    Sweet potato production
+    246,816 t (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    69 (2016)
+    TB patients tested positive for HIV
+    87 (2016)
+    Tariff rate across all products
+    10.72% (2016)
+    Taxes on goods and services
+    4.51% (2017)
+    Taxes on incomes of individuals and corporations
+    2.48% (2017)
+    Tea production
+    78,150 t (2018)
+    Tea yields
+    11,656 t (2018)
+    Terrorism as a share of total deaths
+    <0.01% (2017)
+    Tetanus death rate
+    0.85 (2017)
+    The disease burden from alcohol use disorders
+    0.18 (2017)
+    The global poverty gap, in international-$
+    2,016.32 (2013)
+    The number of reported paralytic polio cases
+    0 (2016)
+    The percentage of neonates protected at birth against neonatal tetanus
+    97% (2016)
+    The poverty gap, in international-$
+    $2,016.32 (2013)
+    Threatened mammal species
+    37 species (2017)
+    Time required to start a business
+    19.5 days (2017)
+    Tobacco production
+    89,013 t (2018)
+    Tomato production
+    385,038 t (2018)
+    Tomato yields
+    13.69 t (2018)
+    Total assistance for development received
+    $6,325.02 (2017)
+    Total debt service (% of exports of goods, services and primary income)
+    5.52% (2017)
+    Total financial assistance and flows for agriculture, by recipient
+    $279.97 (2017)
+    Total government expenditure on education
+    2.5% (2016)
+    Total natural resources rents (% of GDP)
+    0.77% (2016)
+    Total official development assistance for biodiversity, by recipient
+    $21.25 (2017)
+    Total official financial flows for water supply and sanitation, by recipient
+    $283.53 (2017)
+    Total official flows commitments for Aid for Trade, by recipient
+    $2,958.55 (2017)
+    Total official flows for infrastructure, by recipient
+    $2,207.73 (2017)
+    Total tax revenues
+    8.41% (2017)
+    Total wealth per capita
+    $12,713.77 (2014)
+    Total wealth per capita
+    $12,713.77 (2014)
+    Trade Openness
+    35.3% (2017)
+    Trade in services (exports plus imports) as share of GDP
+    5.25% (2017)
+    Trade – exports plus imports – as share of GDP
+    35.3% (2017)
+    Tuberculosis incidence (per 100,000 people)
+    221 (2016)
+    Tuberculosis incidence per 100,000 people
+    221 (2016)
+    Unemployment rate
+    4.37% (2017)
+    Unemployment rate, women
+    4.85% (2017)
+    Unmet need for contraception among married women of reproductive age
+    12% (2014)
+    Unsentenced detainees as a proportion of overall prison population
+    78.5% (2017)
+    Urban population living in slums
+    29.44 million (2014)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    35.08% (2016)
+    Value of agricultural production
+    $22,338.27 (2016)
+    Value of exported goods as share of GDP
+    17.65% (2014)
+    Value of exported of goods and services
+    $27.57 billion (2017)
+    Value of exports as a share of GDP
+    17.65% (2014)
+    Value of imported goods (% GDP)
+    24.08% (2014)
+    Vegetable consumption per capita
+    35.09 kg (2017)
+    Vitamin A supplementation coverage rate (children ages 6-59 months)
+    99% (2015)
+    Wheat production
+    1.1 million t (2018)
+    Wheat yields
+    31,301 t (2018)
+    Wind energy generation
+    <0.01 TWh (2018)
+    Wine consumption per person
+    0 litres (2013)
+    Women in informal employment as share of female employment
+    91.86% (2017)
+    Women who experienced violence by an intimate partner
+    44.45% (2016)
+    Women's life expectancy at birth
+    73.94 (2015)
+    Yaws status of endemicity and number of cases
+    No previous history of yaws (2016)
+    Yearly cost of closing the global poverty gap (million int-$)
+    2,016.32 mill. (2013)
+    Youth dependency ratio
+    42.64% (2017)
+    Youth literacy rate, female
+    85.87% (2015)
+    Youth literacy rate, male
+    80.62% (2015)
+    Youth mortality rate
+    3.68% (2017)

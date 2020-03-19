@@ -1,0 +1,6 @@
+    Average monthly precipitation
+    0.99 mm (2014)
+    HadCRUT Surface Temperature Anomaly
+    0.15 ℃ (2017)
+    Number of significant volcanic eruptions
+    0 (2017)

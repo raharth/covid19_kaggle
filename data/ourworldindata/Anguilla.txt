@@ -1,0 +1,78 @@
+    Agriculture orientation index for government expenditures
+    0.07 (2015)
+    Annual CO2 emissions
+    152,045 t (2017)
+    Annual share of global CO2 emissions
+    <0.01% (2017)
+    Cumulative CO2 emissions
+    3.04 million t (2017)
+    Estimated TB-related deaths among people living with HIV
+    0 (2016)
+    Forest area as share of land area
+    61.11% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area net change rate
+    0% (2015)
+    GDP per capita (Penn World Tables (1950 to 2014))
+    13,876.88 (2017)
+    Gross overseas development assistance (ODA) from all donors for scholarships
+    $10 million (2012)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    162.34 persons (2015)
+    Life expectancy
+    81.9 years (2019)
+    National GDP
+    206.89 million (2017)
+    Number of people using at least basic sanitation facilities
+    14,163.57 (2015)
+    Number of people with access to at least basic drinking water
+    14,353.38 (2015)
+    Percentage of individuals using the internet by country
+    70.39% (2014)
+    Population (Gapminder & UN (1800 to 2019))
+    15,000 (2019)
+    Population
+    15,000 (2019)
+    Population density
+    135.32 (2015)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    49.31% (2017)
+    Real GDP per capita (Penn World Tables (1950 to 2014))
+    $13,876.88 (2017)
+    Red List Index
+    0.92 (2019)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    0.15% (2018)
+    Share of population using at least basic drinking water source
+    98.22% (2015)
+    Share of population using at least basic sanitation facilities
+    96.92% (2015)
+    Share of the population living in urban areas
+    100% (2019)
+    Statutory corporate income tax rate
+    0% (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    0 (2016)
+    TB patients tested positive for HIV
+    0 (2016)
+    Taxes on goods and services
+    6.93% (2014)
+    Taxes on incomes of individuals and corporations
+    1.57% (2014)
+    Total assistance for development received
+    $-141.26 (2013)
+    Total financial assistance and flows for agriculture, by recipient
+    $0.02 (2013)
+    Total official financial flows for water supply and sanitation, by recipient
+    $<0.01 (2013)
+    Total official flows for infrastructure, by recipient
+    $0.14 (2013)
+    Total tax revenues
+    18.6% (2014)
+    Trade Openness
+    111.11% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    100% (2016)

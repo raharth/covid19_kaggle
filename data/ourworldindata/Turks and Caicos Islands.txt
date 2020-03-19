@@ -1,0 +1,174 @@
+    Annual CO2 emissions
+    218,321 t (2017)
+    Annual share of global CO2 emissions
+    <0.01% (2017)
+    Aquaculture production
+    0 t (2016)
+    Arable land use per person
+    0.03 hectares (2015)
+    Cumulative CO2 emissions
+    3.32 million t (2017)
+    Duration of compulsory education
+    13 years (2016)
+    Duration of pre-primary education
+    2 years (2016)
+    Estimated TB-related deaths among people living with HIV
+    <1 (2016)
+    Fixed telephone subscriptions
+    11.65 (2015)
+    Forest area (% of land area)
+    36.21% (2015)
+    Forest area as share of land area
+    36.21% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    344 km² (2015)
+    Forest area net change rate
+    0% (2015)
+    Fuel exports (% of merchandise exports)
+    0.06% (2012)
+    GDP per capita (Penn World Tables (1950 to 2014))
+    1,330.75 (2017)
+    Gender gap in pre-primary education: Share of students in pre-primary education who are female
+    49.35% (2015)
+    Gender gap in primary education: Share of enrolled female primary education students
+    48.51% (2015)
+    Global capture fishery production
+    2,780 (2016)
+    Government expenditure on education (% of GDP)
+    3.27% (2015)
+    Government expenditure on secondary education as share of GDP
+    1.35% (2015)
+    Government expenditure on tertiary education as share of GDP
+    0.73% (2015)
+    Government expenditure on tertiary education by country
+    0.73% (2015)
+    Has country already reached SDG target on electricity access?
+    95.7% (2016)
+    Homicide rate (World Bank (1995 to 2016))
+    5.93 (2014)
+    Internally displaced persons from natural disasters
+    60 (2017)
+    International migrant stock
+    11,688 (2015)
+    International tourism: Number of arrivals
+    454,000 (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    36.15 persons (2015)
+    Life expectancy
+    80.2 years (2019)
+    National GDP
+    47.17 million (2017)
+    Number of people using at least basic sanitation facilities
+    30,214.42 (2015)
+    Number of people with access to at least basic drinking water
+    32,387.92 (2015)
+    Number of people with access to electricity
+    33,399 (2016)
+    Number of people without access to electricity
+    1,501 (2016)
+    Official entrance age to compulsory education
+    4 years (2016)
+    Official entrance age to pre-primary education
+    4 years (2016)
+    Ores and metals exports (% of merchandise exports)
+    0.1% (2012)
+    Percentage of all students in tertiary education enrolled in ISCED 6, both sexes (%)
+    27.97% (2015)
+    Percentage of teachers in primary education who are qualified
+    90.41% (2015)
+    Percentage of teachers in primary education who are qualified, both sexes (%)
+    90.41% (2015)
+    Percentage of teachers in secondary education who are qualified (%)
+    97.62% (2015)
+    Population (Gapminder & UN (1800 to 2019))
+    38,000 (2019)
+    Population
+    38,000 (2019)
+    Population density
+    84.41 (2015)
+    Population density
+    37 (2017)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    41.47% (2017)
+    Pupil-teacher ratio for primary education
+    8.83 (2015)
+    Real GDP per capita (Penn World Tables (1950 to 2014))
+    $1,330.75 (2017)
+    Red List Index
+    0.84 (2019)
+    Refugee population by country or territory of asylum
+    4 (2016)
+    Refugee population by country or territory of origin
+    14 (2017)
+    Secure Internet servers
+    790 (2017)
+    Share enrolled in private institutions at the pre-primary education level
+    52.74% (2015)
+    Share enrolled in private institutions at the primary education level
+    27.96% (2014)
+    Share of electricity production from renewable sources
+    0% (2014)
+    Share of final energy consumption from renewable sources
+    0.57% (2015)
+    Share of food products in total merchandise exports
+    15.94% (2012)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of government expenditure spent on education
+    14.26% (2015)
+    Share of important terrerstrial biodiversity sites that are protected
+    27.96% (2018)
+    Share of land area used for agriculture
+    1.05% (2015)
+    Share of land area used for arable agriculture
+    1.05% (2015)
+    Share of manufactures in total merchandise exports
+    80.72% (2012)
+    Share of marine territorial waters that are protected
+    0.1% (2017)
+    Share of migrants among the population
+    34.04% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    92.82% (2017)
+    Share of people practicing open defecation
+    0% (2015)
+    Share of population using at least basic drinking water source
+    94.32% (2015)
+    Share of population using at least basic sanitation facilities
+    87.99% (2015)
+    Share of primary school teachers who are female
+    93.15% (2015)
+    Share of secondary school teachers who are female
+    60.48% (2015)
+    Share of teachers in primary education who are trained
+    90.41% (2015)
+    Share of teachers in secondary education who are trained
+    97.62% (2015)
+    Share of the population living in urban areas
+    93.36% (2019)
+    Share of the population with access to electricity
+    95.7% (2016)
+    Statutory corporate income tax rate
+    0% (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    1 (2016)
+    TB patients tested positive for HIV
+    1 (2016)
+    Threatened mammal species
+    2 species (2017)
+    Total government expenditure on education
+    3.27% (2015)
+    Total number of fatal shark attacks
+    0 (2011)
+    Total shark attacks per year
+    2 (2011)
+    Trade Openness
+    129.53% (2017)
+    Tuberculosis incidence (per 100,000 people)
+    6.6 (2016)
+    Tuberculosis incidence per 100,000 people
+    6.6 (2016)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    92.52% (2016)

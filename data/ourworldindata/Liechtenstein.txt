@@ -1,0 +1,308 @@
+    Above-ground biomass in forest per hectare
+    118.84 t/ha (2015)
+    Annual CO2 emissions
+    161,253 t (2017)
+    Annual share of global CO2 emissions
+    <0.01% (2017)
+    Arable land needed to produce a fixed quantity of crops (1961 = 1)
+    0.37 (2014)
+    Arable land use per person
+    0.06 hectares (2015)
+    Average annual precipitation
+    56 mm (2012)
+    Average monthly precipitation
+    14.62 mm (2014)
+    Broadband subscriptions per 100 people
+    42.31 (2016)
+    CO2 emissions per capita
+    4.25 t (2017)
+    Completeness of birth registration
+    100% (2014)
+    Completion rate of lower secondary education
+    98.51% (2014)
+    Consumption of Ozone-Depleting Substances
+    0 tonnes (2013)
+    Coverage by protected areas of important sites for mountain biodiversity
+    75.82% (2018)
+    Cumulative CO2 emissions
+    2 million t (2017)
+    Differences in life expectancy are more regional than national
+    82.66 years (2016)
+    Duration of compulsory education
+    9 years (2014)
+    Duration of pre-primary education
+    2 years (2016)
+    Egg production
+    251 t (2018)
+    Eggs per bird
+    65,125 kg (2018)
+    Female employment-to-population ratio
+    51.9 (2016)
+    Fixed broadband subscriptions (per 100 people)
+    42.31 (2016)
+    Fixed telephone subscriptions
+    41.8 (2017)
+    Forest area (% of land area)
+    43.13% (2015)
+    Forest area as share of land area
+    43.13% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    69 km² (2015)
+    Forest area net change rate
+    0% (2015)
+    GDP in British pounds
+    £3.47 billion (2012)
+    Gender gap in pre-primary education: Share of students in pre-primary education who are female
+    44.23% (2014)
+    Gender gap in primary education: Share of enrolled female primary education students
+    47.5% (2016)
+    Global capture fishery production
+    0 (2016)
+    Government expenditure on education (% of GDP)
+    2.56% (2011)
+    Government expenditure on pre-primary education as share of GDP
+    0.18% (2011)
+    Government expenditure on primary education as share of GDP
+    0.99% (2011)
+    Government expenditure on primary education by country
+    17.88% (2011)
+    Government expenditure on secondary education as share of GDP
+    1.21% (2011)
+    Government expenditure on secondary education by country, 1974-2014
+    13.41% (2011)
+    Grape production
+    196 t (2018)
+    Gross enrollment ratio in pre-primary education
+    105.69% (2014)
+    Gross enrollment ratio in primary education
+    102.66% (2014)
+    Gross enrollment ratio in secondary education
+    115.56% (2014)
+    Gross enrollment ratio in tertiary education
+    37.49% (2014)
+    Gross enrolment ratio, primary, gender parity index (GPI)
+    0.99 GPI (2014)
+    Gross enrolment ratio, secondary education, gender parity index (GPI)
+    0.81 GPI (2014)
+    Gross enrolment ratio, tertiary, gender parity index (GPI)
+    0.48 GPI (2014)
+    HadCRUT Surface Temperature Anomaly
+    1.94 ℃ (2017)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    Homicide rate (World Bank (1995 to 2016))
+    0 (2016)
+    Human Development Index
+    0.92 (2017)
+    Human Rights Scores
+    4.37 (2017)
+    International migrant stock
+    23,493 (2015)
+    International tourism: Number of arrivals
+    60,000 (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    233.77 persons (2015)
+    Life expectancy
+    82.5 years (2019)
+    Life expectancy (World Bank data)
+    82.66 years (2016)
+    Mean years of schooling
+    12.5 years (2017)
+    Military expenditure as a share of GDP
+    0% (2012)
+    Military expenditure per capita
+    $0 (2012)
+    Military personnel
+    0 (2012)
+    Military personnel as share of the population
+    0% (2012)
+    Milk per animal
+    60,740 kg (2018)
+    Milk production
+    13,794 t (2018)
+    Milk production
+    13,794 t (2018)
+    Mobile cellular subscriptions
+    122.95 (2017)
+    Mobile cellular subscriptions by country
+    46,625 (2017)
+    Net enrolment rate, pre-primary, both sexes (%)
+    73.74% (2014)
+    Net enrolment rate, primary, gender parity index (GPI)
+    0.99 GPI (2014)
+    Net enrolment rate, secondary, gender parity index (GPI)
+    0.9 GPI (2012)
+    New business density (new registrations per 1,000 people ages 15-64)
+    1.32 new registrations (2016)
+    Number of cattle
+    5,894 (2018)
+    Number of mobile cellular subscriptions by country
+    38,427 (2013)
+    Number of people using at least basic sanitation facilities
+    37,512.23 (2015)
+    Number of people using safely managed drinking water
+    37,531 (2015)
+    Number of people using safely managed sanitation facilities
+    37,277.67 (2015)
+    Number of people with access to at least basic drinking water
+    37,531 (2015)
+    Number of people with access to electricity
+    37,666 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Number of people without access to safe sanitation
+    125 (2015)
+    Number of pigs
+    1,772 (2018)
+    Number of poultry birds
+    13,000 (2018)
+    Official entrance age to compulsory education
+    6 years (2014)
+    Official entrance age to pre-primary education
+    5 years (2016)
+    PISA scores – Education test scores by the OECD
+    525 (2012)
+    PISA test score: Mean performance on the mathematics scale
+    534.97 (2012)
+    PISA test score: Mean performance on the reading scale
+    515.52 (2012)
+    PISA test score: Mean performance on the science scale
+    524.69 (2012)
+    Percentage of all students in tertiary education enrolled in ISCED 6, both sexes (%)
+    56.39% (2014)
+    Percentage of graduates from Science and Technology programmes in tertiary education who are female (%)
+    51.06% (2014)
+    Percentage of individuals using the internet by country
+    95.21% (2014)
+    Population (Gapminder & UN (1800 to 2019))
+    38,000 (2019)
+    Population
+    38,000 (2019)
+    Population density
+    322.24 (2015)
+    Population density
+    237 (2017)
+    Primary completion rate
+    92.25% (2014)
+    Primary completion rate, gender parity index (GPI)
+    0.84 GPI (2014)
+    Primary school completion rate
+    100.25% (2016)
+    Proportion of forest area within legally established protected areas
+    60% (2015)
+    Proportion of seats held by women in national parliaments
+    12% (2017)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    62.12% (2017)
+    Proportion of women in ministerial positions
+    40% (2016)
+    Pump price for diesel fuel (US$ per liter)
+    $1.79 (2014)
+    Pump price for gasoline (US$ per liter)
+    $1.74 (2014)
+    Pupil-teacher ratio for primary education
+    7.44 (2012)
+    Pupil-teacher ratio in pre-primary education
+    10.67 (2012)
+    Pupil-teacher ratio in pre-primary education
+    10.67 (2012)
+    Red List Index
+    0.99 (2019)
+    Refugee population by country or territory of asylum
+    154 (2017)
+    Road deaths over the long-term
+    0 (2016)
+    School life expectancy at the pre-primary education level
+    2.05 years (2014)
+    School life expectancy, from primary to tertiary education
+    14.64 years (2014)
+    School life expectancy, primary, gender parity index (GPI)
+    1.01 GPI (2014)
+    Scientific and technical journal articles
+    35 (2016)
+    Scientific and technical journal publications per million residents
+    714 (2013)
+    Secure Internet servers
+    23,838 (2017)
+    Share enrolled in private institutions at the pre-primary education level
+    3.41% (2014)
+    Share enrolled in private institutions at the primary education level
+    3.11% (2014)
+    Share enrolled in private institutions at the tertiary education level
+    100% (2014)
+    Share of electricity production from renewable sources
+    93.81% (2014)
+    Share of final energy consumption from renewable sources
+    63.13% (2015)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    75.82% (2018)
+    Share of land area used for agriculture
+    32.25% (2015)
+    Share of land area used for arable agriculture
+    13.5% (2015)
+    Share of land used for permanent meadows and pastures
+    18.75% (2017)
+    Share of migrants among the population
+    62.6% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    14.31% (2017)
+    Share of people practicing open defecation
+    0% (2015)
+    Share of population using at least basic drinking water source
+    100% (2015)
+    Share of population using at least basic sanitation facilities
+    99.95% (2015)
+    Share of population using safely managed sanitation facilities
+    99.33% (2015)
+    Share of primary school teachers who are female
+    77.07% (2012)
+    Share of primary-school-age children who are out of school
+    0.69% (2016)
+    Share of secondary school teachers who are female
+    53.07% (2011)
+    Share of students from abroad
+    80.63% (2012)
+    Share of students studying abroad
+    97.4% (2012)
+    Share of teachers in tertiary education who are female
+    30.17% (2012)
+    Share of the population living in urban areas
+    14.37% (2019)
+    Share of the population using safely managed drinking water
+    100% (2015)
+    Share of the population using the Internet
+    98.09% (2016)
+    Share of the population with access to electricity
+    100% (2016)
+    Specialist surgical workforce (per 100,000 population)
+    71.94 (2015)
+    Staff compensation as share of total expenditure in primary public education
+    73.76% (2011)
+    Staff compensation as share of total expenditure in public education (all levels)
+    73.88% (2011)
+    Statutory corporate income tax rate
+    13% (2018)
+    Threatened mammal species
+    0 species (2017)
+    Total assistance for development given
+    $16.5 (2017)
+    Total government expenditure on education
+    2.56% (2011)
+    Total natural resources rents (% of GDP)
+    <0.01% (2015)
+    Total net enrollment rate in primary education
+    97.66% (2014)
+    Total net enrolment rate, primary, gender parity index (GPI)
+    1.01 GPI (2014)
+    Trade Openness
+    119.11% (2017)
+    Unsentenced detainees as a proportion of overall prison population
+    27.8% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    14.3% (2016)
+    Wine production
+    79 t (2014)

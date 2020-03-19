@@ -1,0 +1,100 @@
+    Aid received per capita
+    $6,156.72 (2019)
+    Banana production
+    16 t (2018)
+    Banana yields
+    30,584 t (2018)
+    Chicken meat production
+    5 t (2018)
+    Chicken meat yield per animal
+    7,974 kg (2018)
+    Country Programmable Aid (CPA) received
+    $8.25 million (2019)
+    Egg production
+    10 t (2018)
+    Eggs per bird
+    45,244 kg (2018)
+    Estimated TB-related deaths among people living with HIV
+    0 (2016)
+    Forest area as share of land area
+    0% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Gross official development assistance (ODA) for medical research and basic heath sectors
+    $20 million (2015)
+    Gross overseas development assistance (ODA) from all donors for scholarships
+    $30 million (2014)
+    International finance received for clean energy
+    $5.23 (2011)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    125.2 persons (2015)
+    Life expectancy
+    81.9 years (2019)
+    Mean body mass index (BMI) in men
+    32.14 (2016)
+    Mean body mass index (BMI) in women
+    33.82 (2016)
+    Meat production
+    24 t (2018)
+    Number of people using at least basic sanitation facilities
+    1,163.33 (2015)
+    Number of people with access to at least basic drinking water
+    1,244.11 (2015)
+    Number of pigs
+    1,000 (2018)
+    Number of poultry birds
+    5,000 (2018)
+    Pig meat per animal
+    299 kg (2018)
+    Pigmeat production
+    19 t (2018)
+    Population (Gapminder & UN (1800 to 2019))
+    1,000 (2019)
+    Population
+    1,000 (2019)
+    Population density
+    1,398 (2015)
+    Poultry meat per animal
+    0.8 kg (2018)
+    Poultry production
+    5 t (2018)
+    Prevalence of obesity in adult females
+    52% (2014)
+    Prevalence of obesity in adult males
+    40.9% (2014)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    26.01% (2017)
+    Red List Index
+    0.84 (2019)
+    Share of adult men overweight or obese
+    72.6% (2014)
+    Share of adult women overweight or obese
+    80.4% (2014)
+    Share of important terrerstrial biodiversity sites that are protected
+    7.76% (2018)
+    Share of men with raised blood pressure
+    27.65% (2015)
+    Share of population using at least basic drinking water source
+    99.53% (2015)
+    Share of population using at least basic sanitation facilities
+    93.07% (2015)
+    Share of the population living in urban areas
+    0% (2019)
+    Share of women with raised blood pressure
+    25.76% (2015)
+    TB patients living with HIV receiving antiretroviral therapy
+    0 (2016)
+    TB patients tested positive for HIV
+    0 (2016)
+    Total assistance for development received
+    $7.25 (2017)
+    Total financial assistance and flows for agriculture, by recipient
+    $0.14 (2017)
+    Total official development assistance for biodiversity, by recipient
+    $0.46 (2017)
+    Total official flows commitments for Aid for Trade, by recipient
+    $17.6 (2017)
+    Total official flows for infrastructure, by recipient
+    $1.51 (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    0% (2016)
