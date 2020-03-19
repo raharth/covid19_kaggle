@@ -1,0 +1,148 @@
+    Above-ground biomass in forest per hectare
+    0 t/ha (2015)
+    Annual CO2 emissions
+    672,936 t (2017)
+    Annual share of global CO2 emissions
+    <0.01% (2017)
+    Aquaculture production
+    83,300 t (2016)
+    Arable land needed to produce a fixed quantity of crops (1961 = 1)
+    1.08 (2014)
+    Arable land use per person
+    0.06 hectares (2015)
+    Beef production
+    94 t (2018)
+    Broadband subscriptions per 100 people
+    36.59 (2016)
+    Cattle meat per animal
+    120.4 kg (2018)
+    Cumulative CO2 emissions
+    28.55 million t (2017)
+    Differences in life expectancy are more regional than national
+    82.24 years (2016)
+    Duration of compulsory education
+    9 years (2014)
+    Exports within Western Europe (%GDP)
+    33.19% (2013)
+    Fixed broadband subscriptions (per 100 people)
+    36.59 (2016)
+    Fixed telephone subscriptions
+    41.11 (2016)
+    Forest area (% of land area)
+    0.06% (2015)
+    Forest area as share of land area
+    0.06% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    0.8 km² (2015)
+    Forest area net change rate
+    0% (2015)
+    GDP in British pounds
+    £1.67 billion (2013)
+    Global capture fishery production
+    568,435 (2016)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    International migrant stock
+    5,517 (2015)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    35.08 persons (2015)
+    Life expectancy
+    80.7 years (2019)
+    Life expectancy (World Bank data)
+    82.24 years (2016)
+    Meat production
+    637 t (2018)
+    Mobile cellular subscriptions
+    110.93 (2016)
+    Mobile cellular subscriptions by country
+    54,487 (2016)
+    Number of cattle
+    1,816 (2018)
+    Number of mobile cellular subscriptions by country
+    59,700 (2013)
+    Number of people using at least basic sanitation facilities
+    43,804.93 (2015)
+    Number of people with access to at least basic drinking water
+    48,199 (2015)
+    Number of people with access to electricity
+    49,117 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Official entrance age to compulsory education
+    7 years (2014)
+    Percentage of individuals using the internet by country
+    94.66% (2014)
+    Personal remittances as a share of GDP
+    6.4% (2015)
+    Population (Gapminder & UN (1800 to 2019))
+    49,000 (2019)
+    Population
+    49,000 (2019)
+    Population density
+    42.93 (2015)
+    Population density
+    35 (2017)
+    Potato production
+    1,472 t (2018)
+    Potato yields
+    145,094 t (2018)
+    Proportion of local livestock breeds classified as being at risk of extinction
+    50% (2019)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    78.93% (2017)
+    Red List Index
+    0.86 (2019)
+    Secure Internet servers
+    3,855 (2017)
+    Share of electricity production from renewable sources
+    50.81% (2014)
+    Share of final energy consumption from renewable sources
+    7.51% (2015)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    0% (2018)
+    Share of land area used for agriculture
+    2.15% (2015)
+    Share of land area used for arable agriculture
+    2.15% (2015)
+    Share of marine territorial waters that are protected
+    0.01% (2017)
+    Share of migrants among the population
+    11.45% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    41.91% (2017)
+    Share of people practicing open defecation
+    0% (2015)
+    Share of population using at least basic drinking water source
+    100% (2015)
+    Share of population using at least basic sanitation facilities
+    90.88% (2015)
+    Share of services in total exports
+    17.05% (2011)
+    Share of the population living in urban areas
+    42.23% (2019)
+    Share of the population using the Internet
+    95.11% (2016)
+    Share of the population with access to electricity
+    100% (2016)
+    Threatened mammal species
+    4 species (2017)
+    Total natural resources rents (% of GDP)
+    0% (2015)
+    Trade in services (exports plus imports) as share of GDP
+    24.34% (2011)
+    Trade – exports plus imports – as share of GDP
+    107.76% (2013)
+    Unsentenced detainees as a proportion of overall prison population
+    26.8% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    41.78% (2016)
+    Value of exported goods as share of GDP
+    50.72% (2013)
+    Value of exports as a share of GDP
+    50.72% (2013)
+    Value of imported goods (% GDP)
+    41.74% (2013)

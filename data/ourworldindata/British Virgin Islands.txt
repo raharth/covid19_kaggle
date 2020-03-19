@@ -1,0 +1,156 @@
+    Annual CO2 emissions
+    191,031 t (2017)
+    Annual share of global CO2 emissions
+    <0.01% (2017)
+    Arable land needed to produce a fixed quantity of crops (1961 = 1)
+    0.01 (2014)
+    Arable land use per person
+    0.03 hectares (2015)
+    Banana production
+    479 t (2018)
+    Banana yields
+    88,192 t (2018)
+    Beef production
+    140 t (2018)
+    Broadband subscriptions per 100 people
+    17.71 (2017)
+    Cattle meat per animal
+    181.8 kg (2018)
+    Cumulative CO2 emissions
+    4.42 million t (2017)
+    Estimated TB-related deaths among people living with HIV
+    0 (2016)
+    Fixed broadband subscriptions (per 100 people)
+    17.71 (2017)
+    Fixed telephone subscriptions
+    32.07 (2017)
+    Forest area (% of land area)
+    24.13% (2015)
+    Forest area as share of land area
+    24.13% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    36.2 km² (2015)
+    Forest area net change rate
+    -0.11% (2015)
+    GDP per capita (Penn World Tables (1950 to 2014))
+    20,312.86 (2017)
+    Gender gap in primary education: Share of enrolled female primary education students
+    46.72% (2015)
+    Global capture fishery production
+    1,200 (2016)
+    Government expenditure on education (% of GDP)
+    6.32% (2015)
+    Government expenditure per student, tertiary (% of GDP per capita)
+    49.26% (2015)
+    Has country already reached SDG target for access to sanitation?
+    97.5% (2015)
+    Internally displaced persons from natural disasters
+    6,000 (2017)
+    International migrant stock
+    17,308 (2015)
+    International tourism: Number of arrivals
+    408,000 (2016)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    200.75 persons (2015)
+    Life expectancy
+    79.1 years (2019)
+    Meat production
+    267 t (2018)
+    Mobile cellular subscriptions
+    189.93 (2015)
+    Mobile cellular subscriptions by country
+    57,195 (2015)
+    National GDP
+    633.68 million (2017)
+    Number of cattle
+    2,400 (2018)
+    Number of people using at least basic sanitation facilities
+    29,170.72 (2015)
+    Number of people with access to at least basic drinking water
+    30,076.16 (2015)
+    Number of people without access to improved sanitation
+    753 (2015)
+    Number of pigs
+    1,500 (2018)
+    Number of tourist departures per 1000 people
+    4,876 (2012)
+    Percentage of individuals using the internet by country
+    38.5% (2014)
+    Pig meat per animal
+    477 kg (2018)
+    Pigmeat production
+    19 t (2018)
+    Population (Gapminder & UN (1800 to 2019))
+    30,000 (2019)
+    Population
+    30,000 (2019)
+    Population density
+    159.63 (2015)
+    Population density
+    208 (2017)
+    Primary school completion rate
+    88.15% (2015)
+    Proportion of tariff lines applied to imports from least developed countries with zero-tariff
+    38.29% (2017)
+    Real GDP per capita (Penn World Tables (1950 to 2014))
+    $20,312.86 (2017)
+    Red List Index
+    0.75 (2019)
+    Refugee population by country or territory of asylum
+    2 (2012)
+    Secure Internet servers
+    337,094 (2017)
+    Share of final energy consumption from renewable sources
+    1.23% (2015)
+    Share of global cumulative CO2 emissions
+    <0.01% (2017)
+    Share of important terrerstrial biodiversity sites that are protected
+    11.13% (2018)
+    Share of land area used for agriculture
+    46.67% (2015)
+    Share of land area used for arable agriculture
+    6.67% (2015)
+    Share of land used for permanent meadows and pastures
+    33.33% (2017)
+    Share of marine territorial waters that are protected
+    <0.01% (2017)
+    Share of migrants among the population
+    57.47% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    47.34% (2017)
+    Share of people practicing open defecation
+    0% (2015)
+    Share of population using at least basic drinking water source
+    99.86% (2015)
+    Share of population using at least basic sanitation facilities
+    96.86% (2015)
+    Share of population with improved sanitation faciltities
+    97.5% (2015)
+    Share of rural population with improved sanitation faciltities
+    97.5% (2015)
+    Share of the population living in urban areas
+    48.12% (2019)
+    Share of the population using the Internet
+    37.6% (2012)
+    Share of urban population with improved sanitation faciltities
+    97.5% (2015)
+    Statutory corporate income tax rate
+    0% (2018)
+    TB patients living with HIV receiving antiretroviral therapy
+    0 (2016)
+    TB patients tested positive for HIV
+    0 (2016)
+    Threatened mammal species
+    1 species (2017)
+    Total government expenditure on education
+    6.32% (2015)
+    Trade Openness
+    188.91% (2017)
+    Tuberculosis incidence (per 100,000 people)
+    0 (2016)
+    Tuberculosis incidence per 100,000 people
+    0 (2016)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    46.96% (2016)

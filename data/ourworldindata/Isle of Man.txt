@@ -1,0 +1,90 @@
+    Annual growth of GDP per capita
+    -4.07% (2015)
+    Arable land use per person
+    0.28 hectares (2015)
+    Female employment-to-population ratio
+    78.28 (2016)
+    Forest area (% of land area)
+    6.07% (2015)
+    Forest area as share of land area
+    6.07% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area in km²
+    34.6 km² (2015)
+    Forest area net change rate
+    0% (2015)
+    GDP per capita in US$ (World Bank (1960 to 2017))
+    $84,046.14 (2015)
+    Global capture fishery production
+    7,040 (2016)
+    Gross Domestic Product (World Bank (1960 to 2017))
+    $6.99 billion (2015)
+    Has country already reached SDG target on electricity access?
+    100% (2016)
+    Homicide rate (World Bank (1995 to 2016))
+    0 (2016)
+    International migrant stock
+    45,221 (2015)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    145.91 persons (2015)
+    Labour share of gross domestic product
+    13.6% (2016)
+    Life expectancy
+    81.4 years (2019)
+    New business density (new registrations per 1,000 people ages 15-64)
+    32.67 new registrations (2016)
+    Number of people using safely managed drinking water
+    84,497 (2015)
+    Number of people with access to at least basic drinking water
+    84,497 (2015)
+    Number of people with access to electricity
+    83,737 (2016)
+    Number of people without access to electricity
+    0 (2016)
+    Number of people without access to safe sanitation
+    83,167 (2015)
+    Population (Gapminder & UN (1800 to 2019))
+    85,000 (2019)
+    Population
+    85,000 (2019)
+    Population density
+    148 (2017)
+    Proportion of seats held by women in national parliaments
+    8.94% (2011)
+    Secure Internet servers
+    4,508 (2017)
+    Share of final energy consumption from renewable sources
+    4.21% (2015)
+    Share of land area used for agriculture
+    70.88% (2015)
+    Share of land area used for arable agriculture
+    40.7% (2015)
+    Share of land used for permanent meadows and pastures
+    28.25% (2017)
+    Share of marine territorial waters that are protected
+    0% (2016)
+    Share of migrants among the population
+    51.52% (2015)
+    Share of people living in urban areas (UN (1960 to 2017))
+    52.46% (2017)
+    Share of population using at least basic drinking water source
+    96.26% (2015)
+    Share of the population living in urban areas
+    52.73% (2019)
+    Share of the population using safely managed drinking water
+    96.26% (2015)
+    Share of the population with access to electricity
+    100% (2016)
+    Specialist surgical workforce (per 100,000 population)
+    52.4 (2015)
+    Statutory corporate income tax rate
+    0% (2018)
+    Threatened mammal species
+    1 species (2017)
+    Total natural resources rents (% of GDP)
+    0% (2015)
+    Unsentenced detainees as a proportion of overall prison population
+    12.6% (2017)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    52.34% (2016)

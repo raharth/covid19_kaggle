@@ -1,0 +1,82 @@
+    Child dependency ratio – the ratio between under-19-year-olds and 20-to-69-year-olds
+    114.41 (2015)
+    Child mortality (UN (from 1950))
+    0.44% (2015)
+    Child mortality (Long-run data; Gapminder & UN IGME)
+    4.2% (2016)
+    Children born per woman
+    3.63 (2019)
+    Children per woman (UN; 1950 to 2015)
+    3.9 (2015)
+    Coverage by protected areas of important sites for mountain biodiversity
+    25.78% (2018)
+    Crude birth rate
+    29.8 (2015)
+    Crude death rate: the share of the population that dies per year
+    0.25% (2015)
+    Fertility rate over the long-term
+    3.63 (2019)
+    Forest area as share of land area
+    15.56% (2015)
+    Forest area certified under an independently verified certification scheme
+    0 ha (2018)
+    Forest area net change rate
+    -3.04% (2015)
+    Future life expectancy projections
+    80.78 (2019)
+    Future population projections by country (IIASA (1970 to 2100))
+    233,560 (2015)
+    Is your country more (blue) or less (green) densely populated than Earth's average population density?
+    640.05 persons (2015)
+    Life expectancy
+    79.5 years (2019)
+    Life expectancy
+    79.91 (2015)
+    Life expectancy at age 10
+    70.99 (2015)
+    Median Age
+    19 (2015)
+    Natural population growth (per 1000 population) (UN (1950 to 2015))
+    2.73% (2015)
+    Number of children per who died before they were five years old per woman
+    0.02 (2016)
+    Number of people using at least basic sanitation facilities
+    184,515.83 (2015)
+    Number of people using safely managed drinking water
+    203,293 (2015)
+    Number of people with access to at least basic drinking water
+    235,574.72 (2015)
+    Population (Gapminder & UN (1800 to 2019))
+    266,000 (2019)
+    Population
+    266,000 (2019)
+    Population under five years old
+    35,418 (2015)
+    Proportion of forest area within legally established protected areas
+    31.44% (2015)
+    Proportion of important sites for freshwater biodiversity that are covered by protected areas
+    100% (2018)
+    Rate of natural population increase (UN)
+    2.73% (2015)
+    Red List Index
+    0.86 (2019)
+    Sex ratio at birth (Chao et al. (2019))
+    103.12 (2017)
+    Sex ratio of five-year-olds
+    103 (2015)
+    Share of important terrerstrial biodiversity sites that are protected
+    54.09% (2018)
+    Share of land used for permanent meadows and pastures
+    0.05% (2017)
+    Share of population using at least basic drinking water source
+    98.15% (2015)
+    Share of population using at least basic sanitation facilities
+    76.88% (2015)
+    Share of the population living in urban areas
+    45.93% (2019)
+    Share of the population using safely managed drinking water
+    84.7% (2015)
+    Urbanization over the past 500 years (Historical sources & UN (1500 to 2016))
+    46.68% (2016)
+    Women's life expectancy at birth
+    83.34 (2015)
