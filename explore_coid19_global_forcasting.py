@@ -92,20 +92,3 @@ for key in countries:
     plt.title(key)
     plt.show()
 
-
-# r0 = estimate_r0(confirmed_cases)
-# p0 = estimate_p0(confirmed_cases, r0)
-#
-# plt.plot(confirmed_cases)
-# plt.plot(compute_growth(np.arange(51), p0_ger, r0_ger))
-# for key in exp_country_dict.keys():
-#     p0, r0 = exp_country_dict[key]
-#     if p0 == 4969489243995030:
-#         print(key)
-#
-#
-# exp_country_dict['Montenegro']
-#
-# data_frame_country = data_frame[data_frame['Country/Region'] == 'Montenegro']
-#
-# exp_country_dict['China']
