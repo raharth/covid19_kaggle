@@ -131,4 +131,5 @@ dmypy.json
 # PyCharm
 .idea
 
+# preprocessed data
 data/preprocessed_data

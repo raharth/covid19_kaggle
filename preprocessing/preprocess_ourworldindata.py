@@ -50,13 +50,9 @@ def preprocess_ourworldindata(data_root, target_path):
                     except ValueError:
                         print("Not a float")
 
-            data_frame = pd.DataFrame(
-                {'property': property_names,
-                 'value': value_list,
-                 'unit': unit_list,
-                 'year': year_list,
-                 'country': country}
-            )
+            data = {p: [v] for p, v, u in zip(property_names, value_list, unit_list)}
+            data['country'] = [country]
+            data_frame = pd.DataFrame(data)
             data_frame.to_csv(target_path + country + '.csv')
         except Exception as e:
             print(country)
@@ -65,15 +61,20 @@ def preprocess_ourworldindata(data_root, target_path):
 
 def merge_data_frames(data_root, target_path):
     files = [f for f in listdir(data_root) if isfile(join(data_root, f))]
-    pieces = {}
+    data_frame = pd.DataFrame()
     for file in files:
-        country = file[:-4]
-        pieces[country] = pd.read_csv(data_root + file)
-    data_frame = pd.concat(pieces)
+        tmp_data_frame = pd.read_csv(data_root + file)
+        data_frame = data_frame.append(tmp_data_frame, ignore_index=True)
+        
+    data_frame = data_frame.drop('Unnamed: 0.1', axis=1)
+    data_frame = data_frame.rename(columns={"Unnamed: 0": "idx"})
     data_frame.to_csv(target_path + 'merged_ourworldindata.csv')
-
 
 
 if __name__ == "__main__":
     preprocess_ourworldindata('./data/raw_data/ourworldindata/', './data/preprocessed_data/ourworldindata/')
     merge_data_frames('./data/preprocessed_data/ourworldindata/', './data/preprocessed_data/')
+
+
+
+
