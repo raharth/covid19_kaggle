@@ -65,8 +65,8 @@ def merge_data_frames(data_root, target_path):
     for file in files:
         tmp_data_frame = pd.read_csv(data_root + file)
         data_frame = data_frame.append(tmp_data_frame, ignore_index=True)
-        
-    data_frame = data_frame.drop('Unnamed: 0.1', axis=1)
+
+    # data_frame = data_frame.drop('Unnamed: 0.1', axis=1)
     data_frame = data_frame.rename(columns={"Unnamed: 0": "idx"})
     data_frame.to_csv(target_path + 'merged_ourworldindata.csv')
 
